@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "db786d1fd5c0a83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f47ebf965eaa88f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "102eff50c4888975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book 1/1) Understanding Neural Networks/2.1) Autoassociation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1) Autoassociation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb81a34d6a6488d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2e452a585c456af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a9b687dce8537e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f6ac275f23fde2ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "152cab2d9739b60d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "469963f1801505e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6d2d4153bdc50e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15483cbf4ab707f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Understanding Neural Networks/2.1) Autoassociation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.1) Autoassociation"
+            }
+          },
+          {
+            "id": "8ed0af5c405d8092",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Understanding Neural Networks/2.1) Autoassociation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.1) Autoassociation"
+            }
+          },
+          {
+            "id": "bb877fb317caace7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7520956f3eacce1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Understanding Neural Networks/2.1) Autoassociation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2.1) Autoassociation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "102eff50c4888975",
+  "lastOpenFiles": [
+    "Book 1/1) Understanding Neural Networks/1.1) Neurons.md",
+    "Book 1/1) Understanding Neural Networks/1.2) Neuron Layers.md",
+    "Book 1/3) How Machines Learn/4.2) TANH Layer.md",
+    "Book 1/3) How Machines Learn/3.2) Supervised Learning Errors - Calculating Root Mean Square Error.md",
+    "Book 1/3) How Machines Learn/3.1) Supervised Learning Errors - Calculating Output Errors..md",
+    "Book 1/3) How Machines Learn/2) Learning Methods.md",
+    "Book 1/3) How Machines Learn/5) Training Algorithm.md",
+    "Neuroph",
+    "Book 1/3) How Machines Learn/4) Types of Neuron Layers.md",
+    "Book 1/3) How Machines Learn/4.3) Linear Layer.md",
+    "Images/Pasted image 20250209204130.png",
+    "Book 1/3) How Machines Learn/4.1) Sigmoid Layer.md",
+    "Images/Pasted image 20250209203830.png",
+    "Book 1/3) How Machines Learn/3) Error Calculation.md",
+    "Book 1/3) How Machines Learn/1.1) Intro of How Machines Learn.md",
+    "Book 2",
+    "Book 1",
+    "Book 1/1) Understanding Neural Networks/4) Recalling Patterns.md",
+    "Book 1/1) Understanding Neural Networks/4.1) Deriving Weight Matrix.md",
+    "Book 1/1) Understanding Neural Networks/3) Hopfield Network.md",
+    "Book 1/1) Understanding Neural Networks/3.2) Hopfield Network Weight Matrix.md",
+    "Book 1/1) Understanding Neural Networks/3.1) Hopfield Network Connection Matrix.md",
+    "Book 1/1) Understanding Neural Networks/2) Pattern Recognition.md",
+    "Book 1/1) Understanding Neural Networks/2.1) Autoassociation.md",
+    "Book 1/1) Understanding Neural Networks/1) Neural Network Structure.md",
+    "Images/Pasted image 20250209154929.png",
+    "Book 1/3) How Machines Learn",
+    "Multilayer Neural Networks/1) Using Multilayer Neural Networks.md",
+    "Multilayer Neural Networks/1.1) JOONE Components.md",
+    "Images/Pasted image 20250206211416.png",
+    "Images/Pasted image 20250206190939.png",
+    "Images",
+    "Book 1/2) Multilayer Neural Networks",
+    "Images/Pasted image 20250206210911.png",
+    "Images/Pasted image 20250206210359.png",
+    "Images/Pasted image 20250206210049.png",
+    "Images/Pasted image 20250206205928.png",
+    "Images/Pasted image 20250206202845.png",
+    "Book 1/1) Understanding Neural Networks",
+    "Welcome.md",
+    "desktop.ini"
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "567d1230bb21a5d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e6bab55e3e57e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f219b2fc0f25575b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/1) pigpio Setup & Termination/1 - Setting up pigpio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Setting up pigpio"
+            }
+          },
+          {
+            "id": "e18c5451e455a90e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/1 - gpioSetMode().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - gpioSetMode()"
+            }
+          },
+          {
+            "id": "1ba657b7e87a53df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/2 - gpioGetMode().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - gpioGetMode()"
+            }
+          },
+          {
+            "id": "a940a3af0b6cf510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/3 - GPIO pin modes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - GPIO pin modes"
+            }
+          },
+          {
+            "id": "69532d180eace31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/7 - C++ Classes/5,2 - Initialising Base Classes in the Derived Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5,2 - Initialising Base Classes in the Derived Class"
+            }
+          },
+          {
+            "id": "05c001ee9e1f8670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial/1 - Opening and Closing Serial -  serOpen() & serClose().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Opening and Closing Serial -  serOpen() & serClose()"
+            }
+          },
+          {
+            "id": "5d134863ae00daf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial/2 - Writing and Reading from Serial Devices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Writing and Reading from Serial Devices"
+            }
+          },
+          {
+            "id": "a5aa1fd3c325cd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial/3 - Checking how many bytes are in a Serial Device.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Checking how many bytes are in a Serial Device"
+            }
+          },
+          {
+            "id": "5fed49a02c1c3964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/1 - gpioSetMode().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - gpioSetMode()"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44324276ea9dc86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "505c4b672727edec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbf0182084e164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "63d643a2c099d67f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae8308773fecb144",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "173f6d6685fc81b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "783275486519a89b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c788f0a9dd5b23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c020d5e61b317d01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8356ee9006360b67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7783768338000cb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dddbf0182084e164",
+  "lastOpenFiles": [
+    "C++/12 - std chrono library",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/1 - gpioSetMode().md",
+    "Untitled.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/5 - gpio Pulse Width Modification.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/4 - gpioRead() and gpioWrite().md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial/3 - Checking how many bytes are in a Serial Device.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial/1 - Opening and Closing Serial -  serOpen() & serClose().md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial/2 - Writing and Reading from Serial Devices.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/2 - gpioGetMode().md",
+    "C++/7 - C++ Classes/5,2 - Initialising Base Classes in the Derived Class.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/3) pigpio Serial",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/1) pigpio Setup & Termination/1 - Setting up pigpio.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic/3 - GPIO pin modes.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/1) pigpio Setup & Termination/2 - Terminating pigpio.md",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/1) pigpio Setup & Termination",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)/2) pigpio Basic",
+    "1 -",
+    "C++/5 - C++ Memory, Pointers, References/2,1 - Free Store and Pointers.md",
+    "C and C++ Embedded Systems/Arduino C",
+    "C and C++ Embedded Systems/pigpio C (Rasberry Pi)",
+    "C and C++ Embedded Systems/Untitled.md",
+    "C and C++ Embedded Systems",
+    "C++",
+    "C++/5 - C++ Memory, Pointers, References/1,2 - sizeof operator.md",
+    "C++/5 - C++ Memory, Pointers, References/1,1 - Memory, Addresses, and Pointers.md",
+    "C++/5 - C++ Memory, Pointers, References/2,3 - Segmentation Faults.md",
+    "C++/5 - C++ Memory, Pointers, References/2,2 - Memory Leaks.md",
+    "C++/5 - C++ Memory, Pointers, References/3 - Destructors and Heap.md",
+    "C++/5 - C++ Memory, Pointers, References/8 - The this Pointer.md",
+    "C++/5 - C++ Memory, Pointers, References/7 - Pointers and References as Parameters.md",
+    "C++/5 - C++ Memory, Pointers, References/6 - References.md",
+    "C++/5 - C++ Memory, Pointers, References/5,2 - reinterpret_cast and const_cast.md",
+    "C++/5 - C++ Memory, Pointers, References/5,1 - void pointer and casts.md",
+    "C++/5 - C++ Memory, Pointers, References/4 - Pointers to Class objects.md",
+    "C++/11 - C++ Pre-Processor Directives",
+    "C++/9 - C++ Functions",
+    "-/Pasted image 20250517204254.png",
+    "-/Pasted image 20250517204236.png",
+    "-/Pasted image 20250517152210.png"
+  ]
+}

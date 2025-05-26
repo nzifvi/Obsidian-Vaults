@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"1) JS Basic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"5) JS Functions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.42941787941788,
+  "lineSizeMultiplier": 2.28513513513514,
+  "collapse-forces": false,
+  "centerStrength": 0.412681912681913,
+  "repelStrength": 16.985446985447,
+  "linkStrength": 0.6995841995842,
+  "linkDistance": 183,
+  "scale": 0.2853786685982465,
+  "close": true
+}

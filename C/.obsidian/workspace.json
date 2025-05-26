@@ -1,0 +1,419 @@
+{
+  "main": {
+    "id": "2e515d67afed9837",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b03229534340054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be446eb5c0a284d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/2 - C printf()/1) printf().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) printf()"
+            }
+          },
+          {
+            "id": "2aad45f397a1d966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/1 - C Program Structure/1) C Syntax and Semantics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) C Syntax and Semantics"
+            }
+          },
+          {
+            "id": "ea8c37c07dae1d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/1 - C Program Structure/2) Identifier Declaration Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Identifier Declaration Rules"
+            }
+          },
+          {
+            "id": "cdac8ef2dc959b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,1) C Control Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,1) C Control Flow"
+            }
+          },
+          {
+            "id": "f630316a5de56b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,1) C Control Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,1) C Control Flow"
+            }
+          },
+          {
+            "id": "a2bff23373c29264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,2,1) C Conditional Execution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,2,1) C Conditional Execution"
+            }
+          },
+          {
+            "id": "4ecf3287b08b27dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,3) C Iteration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,3) C Iteration"
+            }
+          },
+          {
+            "id": "2b0a527b664e463a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,2,1) C Conditional Execution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,2,1) C Conditional Execution"
+            }
+          },
+          {
+            "id": "c9c3c77dded5a86b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,2,1) C Conditional Execution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,2,1) C Conditional Execution"
+            }
+          },
+          {
+            "id": "095356b8da201734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3 - C Control Flow/4,1) C Control Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4,1) C Control Flow"
+            }
+          },
+          {
+            "id": "abe8fe0887d7888f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/4 - Derived Data Types/1) What are Derived Data Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) What are Derived Data Types"
+            }
+          },
+          {
+            "id": "e52aba2593449d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/4 - Derived Data Types/2) Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Arrays"
+            }
+          },
+          {
+            "id": "9358286f14fe6fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/4 - Derived Data Types/2) Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Arrays"
+            }
+          },
+          {
+            "id": "64fed14c2458bb07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/4 - Derived Data Types/2) Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Arrays"
+            }
+          },
+          {
+            "id": "3b913a3d4b9e2184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3) Format Specifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3) Format Specifiers"
+            }
+          },
+          {
+            "id": "49fc5d67dbf4a144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/3) Format Specifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3) Format Specifiers"
+            }
+          },
+          {
+            "id": "164a1c6ca22363cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - C Basics/2) Escape Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Escape Characters"
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91d31dc6e6ccd4cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3f69d03e5850d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3364b378e7ce67e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b57f4b17509ecd4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "843760e3dd86db40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5688cc1dd7e3e2ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c89d1d057601e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c67dac35d6b1e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "174da3bf93c9ad98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "02027576a66a6e5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c84d76a58b2e6359",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "64fed14c2458bb07",
+  "lastOpenFiles": [
+    "1 - C Basics/1 - C Program Structure/2) Identifier Declaration Rules.md",
+    "1 - C Basics/4 - Derived Data Types/1) What are Derived Data Types.md",
+    "1 - C Basics/4 - Derived Data Types/4) Structures.md",
+    "1 - C Basics/4 - Derived Data Types/3) Pointers as Opaque Data Types.md",
+    "1 - C Basics/4 - Derived Data Types/2) Arrays.md",
+    "1 - C Basics/3 - C Control Flow/4,1) C Control Flow.md",
+    "1 - C Basics/4 - Derived Data Types",
+    "1 - C Basics/3 - C Control Flow/4,3) C Iteration.md",
+    "1 - C Basics/3 - C Control Flow",
+    "1 - C Basics/3 - C Control Flow/4,2,2) bool.md",
+    "1 - C Basics/3 - C Control Flow/4,2,1) C Conditional Execution.md",
+    "1 - C Basics/3 - C Control Flow/4,4) C Something.md",
+    "1 - C Basics/5) C Iteration.md",
+    "1 - C Basics/1) String Literals.md",
+    "1 - C Basics/3) Format Specifiers.md",
+    "1 - C Basics/2) Escape Characters.md",
+    "1 - C Basics/1 - C Program Structure/1) C Syntax and Semantics.md",
+    "1 - C Basics/2 - C printf()/1) printf().md",
+    "1 - C Basics/2 - C printf()",
+    "1 - C Basics/1 - C Program Structure",
+    "1 - C Basics",
+    "desktop.ini",
+    "Welcome.md"
+  ]
+}
