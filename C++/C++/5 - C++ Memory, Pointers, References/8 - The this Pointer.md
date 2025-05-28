@@ -1,4 +1,5 @@
 [[7 - Pointers and References as Parameters]] <- Back
+[[9 - Function Pointers]] <- Next
 
 ---
 ## The this Pointer
