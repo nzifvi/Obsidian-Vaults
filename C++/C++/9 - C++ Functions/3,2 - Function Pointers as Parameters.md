@@ -17,7 +17,7 @@ In it's current form, the getMax function can only get the max value. To get the
 Using function pointers, it can be done all in one function.
 
 ```c++
-void find(int array* int size, (*compare)(int, int));
+void find(int array* int size, returnType (*compare)(int, int));
 
 void minCompare(int a, int b);
 void maxCompare(int a, int b);

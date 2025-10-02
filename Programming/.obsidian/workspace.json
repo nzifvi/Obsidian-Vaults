@@ -8,20 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a3b87b005786e86",
+            "id": "310e12adc1f45017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Behavioural Patterns/4 - Mediator.md",
+                "file": "Structuring Programs/Config Files/1) JSON/4,1 - JSON with C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Mediator"
+              "title": "4,1 - JSON with C++"
+            }
+          },
+          {
+            "id": "3004600c1ebd8bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structuring Programs/CMake/2 - CMake Project Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - CMake Project Introduction"
+            }
+          },
+          {
+            "id": "edbd7ff3b630f6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structuring Programs/CMake/3 - Libraries with CMake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Libraries with CMake"
+            }
+          },
+          {
+            "id": "5f81699e087baa74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA/Intro - CUDA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro - CUDA"
+            }
+          },
+          {
+            "id": "ee91cdcb8742beec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA/1 - Programming Model/1 - Kernels, Threads, Thread Blocks, and Grids.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Kernels, Threads, Thread Blocks, and Grids"
+            }
+          },
+          {
+            "id": "09bb77bdb7fdcca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA/1 - Programming Model/2 - Thread Block Clusters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Thread Block Clusters"
+            }
+          },
+          {
+            "id": "e24d7c7caae64d2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA/2 - Programming Interface/1 - CUDA Runtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - CUDA Runtime"
+            }
+          },
+          {
+            "id": "9d3b65fd042f4110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA/2 - Programming Interface/2 - CUDA Initialisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - CUDA Initialisation"
+            }
+          },
+          {
+            "id": "0b6d9965b7bbec73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUDA/2 - Programming Interface/3,1 - Allocating Memory to Devices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3,1 - Allocating Memory to Devices"
+            }
+          },
+          {
+            "id": "56d19b8dd6c53a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structuring Programs/Config Files/1) JSON/3 - JSON Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - JSON Files"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,6 +287,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,30 +296,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a3b87b005786e86",
+  "active": "56d19b8dd6c53a18",
   "lastOpenFiles": [
-    "Design Patterns/Behavioural Patterns/3 - Iterator.md",
-    "Design Patterns/Behavioural Patterns/0 - Change Log.md",
-    "Design Patterns/Behavioural Patterns/1 - Chain of Handlers.md",
-    "Design Patterns/Structural Patterns/0 - Change Log.md",
-    "Design Patterns/Behavioural Patterns/4 - Mediator.md",
+    "Structuring Programs/Config Files/1) JSON/1 - JSON Intro.md",
+    "Structuring Programs/CMake/3 - Libraries with CMake.md",
+    "Structuring Programs/CMake/2 - CMake Project Introduction.md",
+    "Structuring Programs/CMake/1 - What are CMake and Build Systems.md",
+    "CUDA/2 - Programming Interface/3,2 Copying Memory between Host and Device.md",
+    "CUDA/2 - Programming Interface/3,1 - Allocating Memory to Devices.md",
+    "CUDA/2 - Programming Interface/2 - CUDA Initialisation.md",
+    "CUDA/2 - Programming Interface/1 - CUDA Runtime.md",
+    "CUDA/1 - Programming Model/3 - Heterogeneous Programming.md",
+    "CUDA/2 - Programming Interface",
+    "CUDA/1 - Programming Model/2 - Thread Block Clusters.md",
+    "CUDA/1 - Programming Model/1 - Kernels, Threads, Thread Blocks, and Grids.md",
+    "-/Pasted image 20250724131507.png",
+    "-",
+    "CUDA/Intro - CUDA.md",
+    "CUDA/1 - Programming Model",
+    "CUDA",
+    "Structuring Programs/Config Files/1) JSON/4,2 - JSON with Java.md",
+    "Structuring Programs/Config Files/1) JSON/4,1 - JSON with C++.md",
+    "Structuring Programs/Config Files/1) JSON/3 - JSON Files.md",
+    "Structuring Programs/Config Files/What are Config Files.md",
+    "Structuring Programs/Config Files/1) JSON/2 - JSON Types.md",
+    "Structuring Programs/Config Files/1) JSON",
     "Design Patterns/Behavioural Patterns/2 - Command.md",
+    "Structuring Programs/Docker/Untitled.md",
+    "Structuring Programs/Docker",
+    "Structuring Programs/CMake",
+    "Structuring Programs/Untitled.md",
+    "Structuring Programs/Config Files",
+    "Structuring Programs",
+    "Design Patterns/Behavioural Patterns/3 - Iterator.md",
+    "Design Patterns/Behavioural Patterns/4 - Memento.md",
     "Design Patterns/Structural Patterns/1 - Adapter.md",
-    "Design Patterns/Structural Patterns/2 - Bridge.md",
     "Design Patterns/Structural Patterns/7 - Proxy.md",
     "Design Patterns/Structural Patterns/6 - Flyweight.md",
     "Design Patterns/Structural Patterns/5 - Façade.md",
-    "Design Patterns/Structural Patterns/4 - Decorator.md",
-    "Design Patterns/Structural Patterns/3 - Composite.md",
-    "Programming Style/1.1) Variables and Value Assignments.md",
-    "Design Patterns/Behavioural Patterns",
-    "Design Patterns/Structural Patterns",
-    "Design Patterns/Creational Patterns",
-    "Design Patterns",
-    "Programming Style/2) Methods.md",
-    "Programming Style/1.2) Container Variable.md",
-    "Programming Style/1.3) Signal slash Flag Variable.md",
-    "Welcome.md",
-    "Programming Style"
+    "Design Patterns/Behavioural Patterns"
   ]
 }

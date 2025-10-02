@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48eeea985f1b136a",
+            "id": "0345aaa1ef78f1ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) Python Functions/3) Functions Arguments.md",
+                "file": "7) Python Libraries/3) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3) Functions Arguments"
+              "title": "1.1) DataFrame DS"
+            }
+          },
+          {
+            "id": "ac09e6341b1bf8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7) Python Libraries/3) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2) DataFrames Options"
+            }
+          },
+          {
+            "id": "2e27692417c698c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7) Python Libraries/3) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2) DataFrames Options"
+            }
+          },
+          {
+            "id": "c46cf8aeffc11015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7) Python Libraries/3) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3) DataFrame Function Members"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3e0d41defa1d10fb",
@@ -160,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,42 +212,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48eeea985f1b136a",
+  "active": "c46cf8aeffc11015",
   "lastOpenFiles": [
-    "2) Python Functions/1) Defining Functions in Python.md",
+    "7) Python Libraries/3) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
+    "7) Python Libraries/3) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
+    "7) Python Libraries/3) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
+    "7) Python Libraries/3) pandas/2) Reading in CSV, JSON into DataFrames/2) Reading JSON into DataFrame.md",
+    "7) Python Libraries/3) pandas/2) Reading in CSV, JSON into DataFrames/1) Reading CSV into DataFrame.md",
+    "7) Python Libraries/3) pandas/1) pandas Data Structures",
+    "7) Python Libraries/3) pandas/2) Reading in CSV, JSON into DataFrames",
+    "7) Python Libraries/1) Importing Libraries and Modules.md",
+    "7) Python Libraries/3) pandas",
+    "2) Python Variables/2) Python Casting/1) How to cast a variable to another type.md",
+    "6) Python File Handling, JSON/2) Python JSON/2) Formatting JSON Strings.md",
+    "2) Python Variables/2) Python Casting",
+    "2) Python Variables/Untitled.md",
+    "6) Python File Handling, JSON/2) Python JSON/1) Using JSON in Python.md",
+    "2) Python Variables/1) Python Strings/1) Formatting Strings.md",
+    "Untitled 1",
+    "6) Python File Handling, JSON/1) Python File Handling/2) Reading.md",
+    "2) Python Variables/1) Python Strings",
+    "7) Python Libraries",
+    "6) Python File Handling, JSON/1) Python File Handling/1) Opening and Closing Files.md",
+    "5) Python Classes/4) Inheritance.md",
+    "6) Python File Handling, JSON/2) Python JSON",
+    "6) Python File Handling, JSON/1) Python File Handling",
+    "6) Python File Handling, JSON",
+    "5) Python Classes/3) self.md",
+    "5) Python Classes/1) Python Classes.md",
+    "5) Python Classes/2) __str__() function member.md",
+    "1) Python Syntax/3) Python End of Line.md",
+    "1) Python Syntax/2) Python Indentation.md",
+    "1) Python Syntax/1) Python Comments.md",
+    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
+    "4) Python Functions/3) Functions Arguments.md",
+    "4) Python Functions/1) Defining Functions in Python.md",
     "3) Python Containers/1 - Lists/6) List Comprehension.md",
     "3) Python Containers/2 - Tuples/1) Tuples.md",
     "3) Python Containers/2 - Tuples/2) Accessing Tuple Items.md",
-    "3) Python Containers/2 - Tuples/3) Adding to and Removing from Tuples.md",
-    "4) Matplotlib/1) Plotting Graphs with Matplotlib.md",
-    "4) Matplotlib/2) Types of Graphs with Matplotlib.md",
-    "3) Python Containers/1 - Lists/5) Loops and Lists.md",
-    "Pasted image 20250421214721.png",
-    "Pasted image 20250421214152.png",
-    "4) Matplotlib/3) Customising Graphs with Matplotlib.md",
-    "3) Python Containers/3 - Zipping and Unzipping/2) Unzipping.md",
-    "3) Python Containers/3 - Zipping and Unzipping/1) Zipping.md",
-    "3) Python Containers/3 - Zipping and Unzipping",
-    "4) Matplotlib",
-    "3) Python Containers/2 - Tuples",
-    "2025-04-16.md",
-    "Untitled.canvas",
-    "3) Python Containers/1 - Lists/4,2) Removing from a List.md",
-    "3) Python Containers/1 - Lists/4,1) Adding to a List.md",
-    "3) Python Containers/1 - Lists/3) Changing Items in List.md",
-    "3) Python Containers/1 - Lists/2) Accessing List Items.md",
-    "3) Python Containers/1 - Lists/1) Lists.md",
-    "3) Python Containers/1- Python Containers.md",
-    "2) Python Functions/4) Function Pass.md",
-    "3) Python Containers/1 - Lists",
-    "3) Python Containers.md",
-    "3) Python Containers",
-    "2) Python Functions/3) Functions Arguments.md",
-    "2) Python Functions/2) Python Function Return Types.md",
-    "1) Python Syntax/3) Python End of Line.md",
-    "2) Python Functions",
-    "1) Python Syntax/1) Python Comments.md",
-    "1) Python Syntax/2) Python Indentation.md",
-    "1) Python Syntax"
+    "-/Pasted image 20250421214721.png",
+    "-/Pasted image 20250421214152.png",
+    "Untitled.canvas"
   ]
 }

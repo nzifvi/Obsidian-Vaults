@@ -6,7 +6,7 @@ Each thread is assigned a function OR method from a class. Upon being assigned a
 
 To use threads, thread header must be included:
 ```c++
-#include <vector>
+#include <thread>
 ```
 
 All threads execute in parallel with main. Whilst main executes, a thread will execute until it reaches it's finishes executing.
