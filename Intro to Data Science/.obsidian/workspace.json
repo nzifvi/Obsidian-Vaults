@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "11a112bc89f8629c",
+    "type": "split",
+    "children": [
+      {
+        "id": "882bf9d753340fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b70dd7c60b37cbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) Statistics/1 - Population, Sample.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Population, Sample"
+            }
+          },
+          {
+            "id": "7f2e13f882389e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) Statistics/2 - Expected Value.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Expected Value"
+            }
+          },
+          {
+            "id": "045d4e36fd1d965d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) Statistics/3 - Variance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Variance"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2035a481e9b3e85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9ea82c366ff726f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900e5e5e2102be8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e9433c21f13950d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97daf614126fef1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ae16ef69cc3953d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1fb0239d17e932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a4344f8ed0767b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "47b5551e79441402",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ee8fdd8dcb30f89c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3bcfa7073388e667",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "045d4e36fd1d965d",
+  "lastOpenFiles": [
+    "5) Statistics/2 - Expected Value.md",
+    "5) Statistics/3 - Variance.md",
+    "5) Statistics/1 - Population, Sample.md",
+    "Untitled",
+    "4) Probability Theory/1,1.md",
+    "5) Statistics",
+    "4) Probability Theory/1 - Random Variables.md",
+    "Lecture 03 Notes.md",
+    "4) Probability Theory",
+    "3) Data Cleaning/1 - What is Data Cleaning.md",
+    "2) Data Wrangling/4 - Grouping Data Sets.md",
+    "-/Pasted image 20251007121509.png",
+    "3) Data Cleaning",
+    "2) Data Wrangling/3 - Merging Data Sets.md",
+    "2) Data Wrangling/2 - Tidying Data via Pandas.md",
+    "2) Data Wrangling/1 - Messy vs. Tidy Data.md",
+    "-/Pasted image 20251006102237.png",
+    "-",
+    "-/Pasted image 20251006102034.png",
+    "desktop.ini",
+    "2) Data Wrangling",
+    "Welcome.md"
+  ]
+}

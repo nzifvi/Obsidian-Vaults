@@ -134,6 +134,48 @@
             }
           },
           {
+            "id": "1894bf5c0f48907a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted/Entity Relationship Diagram (ERD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity Relationship Diagram (ERD)"
+            }
+          },
+          {
+            "id": "81fa7be173d0d5ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted/Entity Relationship Diagram (ERD).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity Relationship Diagram (ERD)"
+            }
+          },
+          {
+            "id": "929df1b4a6432105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - SQL/2 - SQL Statements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - SQL Statements"
+            }
+          },
+          {
             "id": "1793bc6c07edd112",
             "type": "leaf",
             "state": {
@@ -202,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -341,6 +383,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -349,36 +392,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afa8394a71b43da9",
+  "active": "de4ac6f66ce3416c",
   "lastOpenFiles": [
-    "5 - SQL/1,1 - What is SQL.md",
-    "5 - SQL/2 - SQL Statements.md",
     "5 - SQL/1,3 - SQL DML.md",
+    "5 - SQL/1,1 - What is SQL.md",
     "5 - SQL/1,2 - SQL DDL.md",
+    "Unsorted/Constraints.md",
+    "Unsorted/Relationship Types.md",
+    "Unsorted/Entity Relationship Diagram (ERD).md",
+    "5 - SQL/2 - SQL Statements.md",
+    "Unsorted",
+    "4 - Normalisation/2 - Normalising.md",
+    "4 - Normalisation/1 - What is Normalisation.md",
+    "3 - Database Design/7 - Resolving Many to Many Relationships.md",
     "3 - Database Design/8 - Data Dictionary.md",
+    "3 - Database Design/6 - Keys.md",
+    "3 - Database Design/5 - Example of Top-down Approach.md",
+    "3 - Database Design/4 - Approaches to Database Design.md",
     "3 - Database Design/1 - Definitions in Database Design.md",
     "3 - Database Design/2 - Database Development Phases.md",
+    "2 - Intro to Databases/4 - Flat File Databases.md",
+    "2 - Intro to Databases/3 - Database Management Software.md",
+    "2 - Intro to Databases/2 - Database Concepts.md",
+    "2 - Intro to Databases/1 - What is a Database.md",
     "3 - Database Design/3 - Entity Relationship Diagram (ERD).md",
-    "3 - Database Design/4 - Approaches to Database Design.md",
-    "3 - Database Design/5 - Example of Top-down Approach.md",
-    "3 - Database Design/6 - Keys.md",
-    "3 - Database Design/7 - Resolving Many to Many Relationships.md",
-    "4 - Normalisation/2 - Normalising.md",
     "-/Pasted image 20250706211719.png",
     "-/Pasted image 20250706211415.png",
     "-/Pasted image 20250706181640.png",
     "-/Pasted image 20250706181236.png",
     "-/Pasted image 20250706180916.png",
     "-/Pasted image 20250706180822.png",
-    "4 - Normalisation/1 - What is Normalisation.md",
     "-/Pasted image 20250706175329.png",
     "-/Pasted image 20250706145340.png",
     "-/Pasted image 20250706144758.png",
     "-/Pasted image 20250706144752.png",
-    "2 - Intro to Databases/2 - Database Concepts.md",
-    "2 - Intro to Databases/3 - Database Management Software.md",
-    "2 - Intro to Databases/4 - Flat File Databases.md",
-    "2 - Intro to Databases/1 - What is a Database.md",
     "2 - Intro to Databases",
     "1 - Data, Info, Knowledge/3 - Expert Systems.md",
     "1 - Data, Info, Knowledge/2 - Knowledge.md",
@@ -386,7 +433,6 @@
     "-",
     "1 - Data and Information/3 - Information.md",
     "1 - Data and Information/2 - Data into Information.md",
-    "Welcome.md",
     "5 - SQL",
     "4 - Normalisation",
     "3 - Database Design",
