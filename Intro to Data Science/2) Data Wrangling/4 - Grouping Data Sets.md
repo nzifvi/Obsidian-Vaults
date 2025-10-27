@@ -1,4 +1,5 @@
 [[3 - Merging Data Sets]] <- Back
+[[5 - Encoding]] <- Next
 
 ---
 # Grouping Data Sets

@@ -34,6 +34,7 @@ df.drop(nan_indices, inplace=True) # drops nan values only.
 df.reset_index(drop=True, inplace=True)
 ```
 
+Can also use `dropna()` to drop any rows which have a NaN value present within any of their columns.
 ## Handling duplicates
 To check for duplicate values in a given column, you can use the `df.duplicated()` function member.
 - Detect duplicates via their unique ID of their row.

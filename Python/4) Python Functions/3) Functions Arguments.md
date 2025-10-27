@@ -1,7 +1,7 @@
 [[2) Python Function Return Types]] <- Back
 
 ---
-## Function Arguments
+# Function Arguments
 Data can be passed to functions as arguments.
 - Arguments specified in parentheses. Each argument separated by a comma.
 
@@ -89,3 +89,14 @@ getError(1)
 ```output
 4
 ```
+
+# Specifying Datatypes of Function Parameters
+The datatype of a function's parameters can be specified. It follows a different syntax from C/C++
+
+```python
+def func(a: datatypeOfA, b: dataTypeOfB):
+	# function definition here
+```
+
+If a parameter is assigned a different datatype than the one specified, a TypeError exception is thrown.
+- Ensures functions are used correctly.

@@ -11,29 +11,60 @@
             "id": "b50cc85187cf96e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1) ANTLR/1) What is ANTLR.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1) What is ANTLR"
             }
-          }
-        ]
-      },
-      {
-        "id": "92027164c3b8a1d0",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4063c64f78a1c789",
+            "id": "dd200f132d734468",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1) ANTLR/2) Creating a Grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Creating a Grammar"
+            }
+          },
+          {
+            "id": "6bd7e696c767b7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) ANTLR/3) Shorthands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3) Shorthands"
+            }
+          },
+          {
+            "id": "2933913785351aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) ANTLR/2) Creating a Grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2) Creating a Grammar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "349f7d0c947d253c",
@@ -179,8 +210,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b11b089d36621b5",
+  "active": "2933913785351aaa",
   "lastOpenFiles": [
+    "1) ANTLR/1) What is ANTLR.md",
+    "1) ANTLR/2) Creating a Grammar.md",
+    "1) ANTLR/3) Shorthands.md",
+    "1) ANTLR/4) Labels.md",
+    "1) ANTLR",
     "Compilers/2) Com",
     "Compilers/1) Compiler Structure",
     "Compilers/Untitled.md",

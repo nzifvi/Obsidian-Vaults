@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Python Libraries/3) pandas/3) Data Wrangling with Pandas/Untitled.md",
+                "file": "4) Python Functions/3) Functions Arguments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "3) Functions Arguments"
             }
           }
         ],
@@ -215,9 +215,15 @@
   "active": "c46cf8aeffc11015",
   "lastOpenFiles": [
     "7) Python Libraries/3) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
-    "7) Python Libraries/3) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
     "7) Python Libraries/3) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
+    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
+    "7) Python Libraries/2) Matplotlib/2) Types of Graphs with Matplotlib.md",
+    "7) Python Libraries/2) Matplotlib/3) Customising Graphs with Matplotlib.md",
+    "4) Python Functions/3) Functions Arguments.md",
+    "4) Python Functions/2) Python Function Return Types.md",
+    "4) Python Functions/1) Defining Functions in Python.md",
     "7) Python Libraries/3) pandas/3) Data Wrangling with Pandas/Untitled.md",
+    "7) Python Libraries/3) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
     "7) Python Libraries/3) pandas/3) Data Wrangling with Pandas",
     "7) Python Libraries/3) pandas/2) Reading in CSV, JSON into DataFrames/1) Reading CSV into DataFrame.md",
     "-/Pasted image 20251006100930.png",
@@ -246,12 +252,6 @@
     "5) Python Classes/2) __str__() function member.md",
     "1) Python Syntax/3) Python End of Line.md",
     "1) Python Syntax/2) Python Indentation.md",
-    "1) Python Syntax/1) Python Comments.md",
-    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
-    "4) Python Functions/3) Functions Arguments.md",
-    "4) Python Functions/1) Defining Functions in Python.md",
-    "3) Python Containers/1 - Lists/6) List Comprehension.md",
-    "3) Python Containers/2 - Tuples/1) Tuples.md",
     "-/Pasted image 20250421214721.png",
     "-/Pasted image 20250421214152.png",
     "Untitled.canvas"
