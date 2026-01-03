@@ -8,5 +8,5 @@ Structured Query Language (SQL), like any database language, allows...
 3) Perform simple and complex queries.
 
 SQL comes in 2 parts:
-1) Data Definition Language (DDL) [[1,2 - SQL DDL]]
+1) Data Definition Language (DDL) [[1,2,1 - SQL DDL]]
 2) Data Manipulation Language (DML) [[1,3 - SQL DML]]

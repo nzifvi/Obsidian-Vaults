@@ -4,247 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "fec191599b10f20c",
+        "id": "c0607e34d6a34513",
         "type": "tabs",
         "children": [
           {
-            "id": "557d12dd24dfbfb7",
+            "id": "8fb9b9edfa3c52d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Database Design/6 - Keys.md",
+                "file": "6 - Programmatic SQL/2,2,3 - Function Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 - Keys"
+              "title": "2,2,3 - Function Structure"
             }
           },
           {
-            "id": "900337bff5308c76",
+            "id": "b91b9ee5bd71dfcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Database Design/7 - Resolving Many to Many Relationships.md",
+                "file": "6 - Programmatic SQL/3,1 - SQL Programming Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - Resolving Many to Many Relationships"
+              "title": "3,1 - SQL Programming Concepts"
             }
           },
           {
-            "id": "1d5e7f0a476190dc",
+            "id": "a155472ab005ee93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Normalisation/1 - What is Normalisation.md",
+                "file": "6 - Programmatic SQL/4 - Pre-defined SQL Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - What is Normalisation"
+              "title": "4 - Pre-defined SQL Functions"
             }
           },
           {
-            "id": "fa542ece55fd4712",
+            "id": "3bd7aa64785b9793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Normalisation/2 - Normalising.md",
+                "file": "6 - Programmatic SQL/2,2,3 - Function Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Normalising"
-            }
-          },
-          {
-            "id": "6282fe6228d99d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Database Design/8 - Data Dictionary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 - Data Dictionary"
-            }
-          },
-          {
-            "id": "5744e1ab31025339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - SQL/1,1 - What is SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1,1 - What is SQL"
-            }
-          },
-          {
-            "id": "70f33a8df4ac6c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - SQL/1,1 - What is SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1,1 - What is SQL"
-            }
-          },
-          {
-            "id": "a7d818bad2196d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - SQL/1,3 - SQL DML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1,3 - SQL DML"
-            }
-          },
-          {
-            "id": "afa8394a71b43da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - SQL/2 - SQL Statements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - SQL Statements"
-            }
-          },
-          {
-            "id": "1894bf5c0f48907a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsorted/Entity Relationship Diagram (ERD).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity Relationship Diagram (ERD)"
-            }
-          },
-          {
-            "id": "81fa7be173d0d5ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsorted/Entity Relationship Diagram (ERD).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entity Relationship Diagram (ERD)"
-            }
-          },
-          {
-            "id": "929df1b4a6432105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - SQL/2 - SQL Statements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - SQL Statements"
-            }
-          },
-          {
-            "id": "1793bc6c07edd112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Database Design/2 - Database Development Phases.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Database Development Phases"
-            }
-          },
-          {
-            "id": "add10804b33c2e23",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-/Pasted image 20250705193054.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250705193054"
-            }
-          },
-          {
-            "id": "efd02a153af6c69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Database Design/4 - Approaches to Database Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - Approaches to Database Design"
-            }
-          },
-          {
-            "id": "47dc6b55d58add00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Database Design/5 - Example of Top-down Approach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 - Example of Top-down Approach"
-            }
-          },
-          {
-            "id": "a59d36ac4ed03353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Intro to Databases/2 - Database Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Database Concepts"
+              "title": "2,2,3 - Function Structure"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -392,50 +212,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de4ac6f66ce3416c",
+  "active": "a155472ab005ee93",
   "lastOpenFiles": [
+    "6 - Programmatic SQL/3,2 - Cursors.md",
+    "6 - Programmatic SQL/3,1 - SQL Programming Concepts.md",
+    "6 - Programmatic SQL/2,2,3 - Function Structure.md",
+    "6 - Programmatic SQL/2,2,2 - Procedure Structure.md",
+    "6 - Programmatic SQL/2,2,1 Procedural SQL.md",
+    "6 - Programmatic SQL/1- Declarative SQL vs Programmatic SQL.md",
+    "6 - Programmatic SQL/2,1 - About Stored Procedures.md",
+    "6 - Programmatic SQL/4 - Pre-defined SQL Functions.md",
     "5 - SQL/1,3 - SQL DML.md",
+    "Pasted image 20260101171301.png",
+    "-/Pasted image 20260101170902.png",
+    "5 - SQL/2 - SQL Statements.md",
+    "5 - SQL/1,2,2 - SQL Types.md",
+    "5 - SQL/1,2,1 - SQL DDL.md",
     "5 - SQL/1,1 - What is SQL.md",
-    "5 - SQL/1,2 - SQL DDL.md",
+    "-/Pasted image 20251229201125.png",
+    "! EXAM CHEAT SHEETS/2 - Logical Schema Diagram/Logical Schema Diagram.md",
+    "! EXAM CHEAT SHEETS/Resolutions/Relationship Resolutions.md",
+    "! EXAM CHEAT SHEETS/2 - Logical Schema Diagram",
+    "-/Pasted image 20251229195212.png",
+    "-/Pasted image 20251229195142.png",
+    "! EXAM CHEAT SHEETS/1 - Relational Schema Diagram/Chen Notation/Cheatsheet.md",
+    "! EXAM CHEAT SHEETS/Resolutions",
+    "-/Pasted image 20251229194651.png",
+    "-/Pasted image 20251229194637.png",
+    "-/Pasted image 20251229194347.png",
+    "-/Pasted image 20251229194338.png",
+    "-/Pasted image 20251229194326.png",
+    "! EXAM CHEAT SHEETS/Data Dictionary Cheatsheets",
+    "! EXAM CHEAT SHEETS/ERD/Sane Notation",
+    "! EXAM CHEAT SHEETS/1 - Relational Schema Diagram/Chen Notation",
+    "2 - Intro to Databases/2 - Database Concepts.md",
+    "3 - Database Design/5 - Example of Top-down Approach.md",
+    "3 - Database Design/4 - Approaches to Database Design.md",
+    "3 - Database Design/2 - Database Development Phases.md",
+    "Unsorted/Entity Relationship Diagram (ERD).md",
+    "! EXAM CHEAT SHEETS/1 - Relational Schema Diagram",
+    "! EXAM CHEAT SHEETS",
+    "6 - Programmatic SQL",
     "Unsorted/Constraints.md",
     "Unsorted/Relationship Types.md",
-    "Unsorted/Entity Relationship Diagram (ERD).md",
-    "5 - SQL/2 - SQL Statements.md",
     "Unsorted",
     "4 - Normalisation/2 - Normalising.md",
     "4 - Normalisation/1 - What is Normalisation.md",
     "3 - Database Design/7 - Resolving Many to Many Relationships.md",
-    "3 - Database Design/8 - Data Dictionary.md",
-    "3 - Database Design/6 - Keys.md",
-    "3 - Database Design/5 - Example of Top-down Approach.md",
-    "3 - Database Design/4 - Approaches to Database Design.md",
-    "3 - Database Design/1 - Definitions in Database Design.md",
-    "3 - Database Design/2 - Database Development Phases.md",
-    "2 - Intro to Databases/4 - Flat File Databases.md",
-    "2 - Intro to Databases/3 - Database Management Software.md",
-    "2 - Intro to Databases/2 - Database Concepts.md",
-    "2 - Intro to Databases/1 - What is a Database.md",
-    "3 - Database Design/3 - Entity Relationship Diagram (ERD).md",
-    "-/Pasted image 20250706211719.png",
-    "-/Pasted image 20250706211415.png",
-    "-/Pasted image 20250706181640.png",
-    "-/Pasted image 20250706181236.png",
-    "-/Pasted image 20250706180916.png",
-    "-/Pasted image 20250706180822.png",
-    "-/Pasted image 20250706175329.png",
-    "-/Pasted image 20250706145340.png",
-    "-/Pasted image 20250706144758.png",
-    "-/Pasted image 20250706144752.png",
-    "2 - Intro to Databases",
-    "1 - Data, Info, Knowledge/3 - Expert Systems.md",
-    "1 - Data, Info, Knowledge/2 - Knowledge.md",
-    "1 - Data, Info, Knowledge/1 - What is Data and Information.md",
-    "-",
-    "1 - Data and Information/3 - Information.md",
-    "1 - Data and Information/2 - Data into Information.md",
-    "5 - SQL",
-    "4 - Normalisation",
-    "3 - Database Design",
-    "1 - Data, Info, Knowledge"
+    "2 - Intro to Databases"
   ]
 }

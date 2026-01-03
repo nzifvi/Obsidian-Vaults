@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b70dd7c60b37cbf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5) Statistics/1 - Population, Sample.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Population, Sample"
-            }
-          },
-          {
-            "id": "7f2e13f882389e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5) Statistics/2 - Expected Value.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Expected Value"
-            }
-          },
-          {
-            "id": "045d4e36fd1d965d",
+            "id": "97d54ddb7f289a0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,105 +22,49 @@
             }
           },
           {
-            "id": "2e9a03736ec2230a",
+            "id": "f3029b0463fead08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
+                "file": "5) Descriptive Statistics/8 - Z-score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3) DataFrame Function Members"
+              "title": "8 - Z-score"
             }
           },
           {
-            "id": "0ed0cb6ba8e1a63c",
+            "id": "3ee24f23ed0d5751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) pandas/1) pandas Data Structures/2.1) Series.md",
+                "file": "5) Descriptive Statistics/9 - Covariance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1) Series"
+              "title": "9 - Covariance"
             }
           },
           {
-            "id": "d7f4c94521eb9652",
+            "id": "efa0aef5abd95d0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6) Exploratory Data Analysis/1 - What is Exploratory Data Analysis.md",
+                "file": "5) Descriptive Statistics/4 - Expected Value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - What is Exploratory Data Analysis"
-            }
-          },
-          {
-            "id": "469f326ff5d44ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6) Exploratory Data Analysis/2 - Dangers of EDA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Dangers of EDA"
-            }
-          },
-          {
-            "id": "de9f84915a539b70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Statistical Inference, Hypothesis Testing/1,1 - What is Statistical Inference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1,1 - What is Statistical Inference"
-            }
-          },
-          {
-            "id": "4e41318dbf3fdf70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Statistical Inference, Hypothesis Testing/1,2 - Confidence Intervals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1,2 - Confidence Intervals"
-            }
-          },
-          {
-            "id": "a4f2230379ffd2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Statistical Inference, Hypothesis Testing/2 - Bootstrapping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Bootstrapping"
+              "title": "4 - Expected Value"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +108,7 @@
             }
           },
           {
-            "id": "97daf614126fef1e",
+            "id": "f118c931e672579c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -205,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6ae16ef69cc3953d",
@@ -294,49 +210,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "900e5e5e2102be8c",
+  "active": "efa0aef5abd95d0b",
   "lastOpenFiles": [
-    "8) Statistical Inference, Hypothesis Testing/1,2 - Confidence Intervals.md",
-    "8) Statistical Inference, Hypothesis Testing/1,1 - What is Statistical Inference.md",
-    "8) Statistical Inference, Hypothesis Testing/2 - Bootstrapping.md",
-    "7) Visualising Data/What is a Data Graphic.md",
-    "8) Statistical Inference, Hypothesis Testing",
-    "6) Exploratory Data Analysis/2 - Dangers of EDA.md",
-    "6) Exploratory Data Analysis/1 - What is Exploratory Data Analysis.md",
-    "7) Visualising Data",
-    "-/Pasted image 20251020103302.png",
-    "-/Pasted image 20251020101822.png",
-    "-/Pasted image 20251020101557.png",
-    "1) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
-    "6) Exploratory Data Analysis",
-    "1) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
-    "1) pandas/1) pandas Data Structures/2.1) Series.md",
-    "1) pandas/1) pandas Data Structures/2.2) Converting Series.md",
+    "5) Descriptive Statistics/2 - Population, Sample.md",
+    "5) Descriptive Statistics/3 - Sample Mean.md",
+    "5) Descriptive Statistics/6 - Standard Deviation.md",
+    "5) Descriptive Statistics/5 - Variance.md",
+    "5) Descriptive Statistics/7 - Quantiles.md",
+    "5) Descriptive Statistics/8 - Z-score.md",
+    "5) Descriptive Statistics/10 - Correlation.md",
+    "5) Descriptive Statistics/9 - Covariance.md",
+    "3) Data Cleaning/2 - Saving Post-Wrangling-and-Cleaning.md",
     "3) Data Cleaning/1 - What is Data Cleaning.md",
     "2) Data Wrangling/2 - Tidying Data via Pandas.md",
-    "2) Data Wrangling/1 - Messy vs. Tidy Data.md",
-    "1) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
-    "2) Data Wrangling/5 - Encoding.md",
-    "1) pandas/3) Data Wrangling with Pandas/Untitled.md",
-    "1) pandas/2) Reading in CSV, JSON into DataFrames/2) Reading JSON into DataFrame.md",
-    "1) pandas/2) Reading in CSV, JSON into DataFrames/1) Reading CSV into DataFrame.md",
-    "1) pandas/3) Data Wrangling with Pandas",
-    "1) pandas/2) Reading in CSV, JSON into DataFrames",
-    "1) pandas/1) pandas Data Structures",
-    "1) pandas",
-    "3) pandas/3) Data Wrangling with Pandas/Untitled.md",
-    "3) pandas/3) Data Wrangling with Pandas",
-    "3) pandas/2) Reading in CSV, JSON into DataFrames/2) Reading JSON into DataFrame.md",
-    "3) pandas/2) Reading in CSV, JSON into DataFrames/1) Reading CSV into DataFrame.md",
-    "3) pandas/2) Reading in CSV, JSON into DataFrames",
-    "3) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
-    "3) pandas/1) pandas Data Structures/1.2) DataFrames Options.md",
-    "3) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
-    "3) pandas/1) pandas Data Structures",
+    "2) Data Wrangling/3 - Merging Data Sets.md",
     "2) Data Wrangling/4 - Grouping Data Sets.md",
-    "5) Mathematics for Statistics/3 - Variance.md",
-    "-/Pasted image 20251007121509.png",
-    "-/Pasted image 20251006102237.png",
-    "-/Pasted image 20251006102034.png"
+    "2) Data Wrangling/5 - Encoding.md",
+    "11) Intro to ML/4 - Binary Classification.md",
+    "11) Intro to ML/3 - Instances, Labels.md",
+    "11) Intro to ML/2 - Supervised vs Unsupervised Learning.md",
+    "12) Overfitting, Regularisation, Model Selection/2 - Overfitting and Underfitting.md",
+    "12) Overfitting, Regularisation, Model Selection/1 - Bias and Variance.md",
+    "11) Intro to ML/1 - What is ML.md",
+    "7) Exploratory Data Analysis/1 - What is Exploratory Data Analysis.md",
+    "10) Regression/10.2) Linear Regression/1 - What is Monovariable Linear Regression.md",
+    "-/Pasted image 20251230014259.png",
+    "10) Regression/1,1 - Gaussian Distributed Check.md",
+    "8) Visualising Data/What is a Data Graphic.md",
+    "15) Decision Trees, Random Forests/1,2 - Classification Trees.md",
+    "15) Decision Trees, Random Forests/1,1 - Decision Trees.md",
+    "-/Pasted image 20251230010926.png",
+    "-/Pasted image 20251230010114.png",
+    "-/Pasted image 20251230005136.png",
+    "-/Pasted image 20251230002755.png",
+    "-/Pasted image 20251230000755.png",
+    "-/Pasted image 20251230000705.png",
+    "15) Decision Trees, Random Forests",
+    "14) Perceptrons",
+    "Pasted image 20251229203206.png",
+    "-/Pasted image 20251229203222.png",
+    "Pasted image 20251202144603.png",
+    "13) Dimensionality Reduction, Clustering",
+    "12) Overfitting, Regularisation, Model Selection",
+    "11) Intro to ML",
+    "10) Regression/10.3) Logistic Regression",
+    "10) Regression/10.1) Mathematics for Regression",
+    "10) Regression/10.2) Linear Regression",
+    "10) Regression",
+    "6) Distributions for Statistics"
   ]
 }
