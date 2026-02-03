@@ -22,9 +22,7 @@ Linear regression can be performed with an approximating function that is...
 ## $g(x; \vec{\theta})$ is the APPROXIMATING FUNCTION
 - $g(x;\vec{\theta})$ will be adapted over multiple iterations to better approximate the target function $f(x)$.
 - With linear regression, $g(x)$ will be a linear equation.
-$$
-g(x;\theta)=\theta x+\epsilon
-$$
+- The expression EQUAL to the approximating function depends on the model being used.
 
 ## $L(x_i;\theta,\vec{x})$ is the LOSS function.
 - Loss function is an error measure for a single output of the approximating function.

@@ -1,3 +1,4 @@
+[[2,1 - Normalisation]] $\leftarrow$ Next
 
 ---
 # How to Determine if Residuals have Gaussian Distribution

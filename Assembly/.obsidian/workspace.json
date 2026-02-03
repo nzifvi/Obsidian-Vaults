@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIPs Assembly/3,2 - Data Manipulation Instructions.md",
+                "file": "RISC-V Assembly/1 - RISC-V Registers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3,2 - Data Manipulation Instructions"
+              "title": "1 - RISC-V Registers"
             }
           }
         ],
@@ -242,8 +242,10 @@
   },
   "active": "83a14d04b82ac49d",
   "lastOpenFiles": [
-    "MIPs Assembly/3,1 - MIPS Instruction Set.md",
     "MIPs Assembly/3,2 - Data Manipulation Instructions.md",
+    "RISC-V Assembly/1 - RISC-V Registers.md",
+    "RISC-V Assembly",
+    "MIPs Assembly/3,1 - MIPS Instruction Set.md",
     "MIPs Assembly/2 - MIPs Assembly Registers.md",
     "MIPs Assembly/1 - MIPs Program Structure and Segment.md",
     "Shared Assembly Properties/1) Registers/1 - About Registers.md",

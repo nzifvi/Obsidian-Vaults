@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "3) Functions Arguments"
             }
+          },
+          {
+            "id": "1af5236ab92ac46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8) Python Slicing/1 - About Python Slicing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - About Python Slicing"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,14 +226,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c46cf8aeffc11015",
+  "active": "1af5236ab92ac46e",
   "lastOpenFiles": [
+    "4) Python Functions/3) Functions Arguments.md",
+    "8) Python Slicing/1 - About Python Slicing.md",
+    "8) Python Slicing",
     "7) Python Libraries/3) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
     "7) Python Libraries/3) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
     "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
     "7) Python Libraries/2) Matplotlib/2) Types of Graphs with Matplotlib.md",
     "7) Python Libraries/2) Matplotlib/3) Customising Graphs with Matplotlib.md",
-    "4) Python Functions/3) Functions Arguments.md",
     "4) Python Functions/2) Python Function Return Types.md",
     "4) Python Functions/1) Defining Functions in Python.md",
     "7) Python Libraries/3) pandas/3) Data Wrangling with Pandas/Untitled.md",
@@ -246,12 +262,10 @@
     "6) Python File Handling, JSON/1) Python File Handling/1) Opening and Closing Files.md",
     "5) Python Classes/4) Inheritance.md",
     "6) Python File Handling, JSON/2) Python JSON",
-    "6) Python File Handling, JSON/1) Python File Handling",
     "5) Python Classes/3) self.md",
     "5) Python Classes/1) Python Classes.md",
     "5) Python Classes/2) __str__() function member.md",
     "1) Python Syntax/3) Python End of Line.md",
-    "1) Python Syntax/2) Python Indentation.md",
     "-/Pasted image 20250421214721.png",
     "-/Pasted image 20250421214152.png",
     "Untitled.canvas"

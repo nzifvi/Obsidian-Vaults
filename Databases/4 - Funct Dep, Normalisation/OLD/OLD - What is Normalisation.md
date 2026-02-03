@@ -1,4 +1,4 @@
-[[2 - Normalising]] <- Next
+[[OLD - Normalising]] <- Next
 
 ## What is Normalisation?
 Normalisation is a process which transforms a flat-file database into a proper relational database by applying 3 transforms one by one.

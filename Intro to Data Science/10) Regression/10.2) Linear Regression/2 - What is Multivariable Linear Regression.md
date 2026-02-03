@@ -1,4 +1,4 @@
-[[1 - What is Monovariable Linear Regression]] <- Back
+[[1,1 - What is Monovariable Linear Regression]] <- Back
 
 ---
 # 1) What is Multivariable Linear Regression?
