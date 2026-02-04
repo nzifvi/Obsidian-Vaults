@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Neural Networks/1,5) NNs in Linear Algebra Form.md",
+                "file": "Python Libraries/1) PyTorch/2) Transfer Functions/1 - Transfer Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1,5) NNs in Linear Algebra Form"
+              "title": "1 - Transfer Functions"
             }
           }
         ],
@@ -228,14 +228,26 @@
   },
   "active": "b5cac34d8b8af31b",
   "lastOpenFiles": [
-    "1) Neural Networks/1,2 - Transfer Functions.md",
+    "Python Libraries/1) PyTorch/2) Transfer Functions/2 - Derivatives of Transfer Functions.md",
+    "Python Libraries/1) PyTorch/2) Transfer Functions/1 - Transfer Functions.md",
+    "Python Libraries/1) PyTorch/1) Tensors/2 - Torch Matrix Operations.md",
+    "Python Libraries/1) PyTorch/2) Transfer Functions",
+    "Python Libraries/1) PyTorch/1) Tensors/3 - PyTorch.md",
+    "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.md",
+    "Python Libraries/1) PyTorch/10) NN Implementations in PyTorch/1 - Multilayer NN.md",
+    "2) Recurrent Networks/1 - What are Recurrent NNs.md",
+    "Python Libraries/1) PyTorch/10) NN Implementations in PyTorch",
+    "2) NN In PyTorch",
+    "1) Neural Networks/5 - Implementing NN in Python.md",
+    "1) Neural Networks/3 - Perceptrons.md",
     "1) Neural Networks/1,5) NNs in Linear Algebra Form.md",
+    "1) Neural Networks/2,2 - Hopfield Networks.md",
+    "2) Recurrent Networks",
+    "1) Neural Networks/4,1 - Multilayer Feed-Forward Networks.md",
+    "1) Neural Networks/1,2 - Transfer Functions.md",
     "1) Neural Networks/1,4 - Backward Pass.md",
     "1) Neural Networks/1,3 - Forward Pass.md",
-    "1) Neural Networks/5 - Implementing NN in Python.md",
     "1) Neural Networks/5 - Implementing NN in Python.ipynb",
-    "1) Neural Networks/4,1 - Multilayer Feed-Forward Networks.md",
-    "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.md",
     "Reading Notes/1) Robust Layered Control System for Mobile Robots/2,2 - Control Layers, Subsumption Architecture.md",
     "-/Pasted image 20260201222411.png",
     "Reading Notes/1) Robust Layered Control System for Mobile Robots/2,1 - Levels and Layers.md",
@@ -249,28 +261,18 @@
     "Reading Notes/Untitled.md",
     "Reading Notes",
     "1) Neural Networks/2,1 - Network Structures.md",
-    "1) Neural Networks/3 - Perceptrons.md",
     "1) Neural Networks/4,2 - Back-Propagation as Gradient Descent Search.md",
     "1) Neural Networks/1,3 - Network Structures.md",
     "1) Neural Networks/1,1 - Neural Network Components.md",
     "1) Neural Networks/1,2 - Example of Full Layer Computation.md",
-    "1) Neural Networks/1,1 - Neural Network Math Notation.md",
     "-/Pasted image 20260131053648.png",
     "-/Pasted image 20260131053238.png",
     "-/Pasted image 20260131051456.png",
     "-/Pasted image 20260131051545.png",
     "-/Pasted image 20260131045008.png",
     "Pasted image 20260131044950.png",
-    "1,6 - Weight Changing during Backward Pass.md",
-    "1) Neural Networks/2,2 - Hopfield Networks.md",
     "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.ipynb",
-    "Python Libraries/Untitled.md",
     "Python Libraries/1) PyTorch/1) Tensors",
-    "Python Libraries/1) PyTorch",
-    "Python Libraries",
-    "-",
-    "Welcome.md",
-    "1) Neural Networks",
-    "desktop.ini"
+    "Python Libraries/1) PyTorch"
   ]
 }
