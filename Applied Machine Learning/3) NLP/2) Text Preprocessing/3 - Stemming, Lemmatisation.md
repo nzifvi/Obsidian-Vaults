@@ -1,4 +1,5 @@
 [[2 - Normalisation]] $\leftarrow$ Back
+[[4 - Parts of Speech]] $\leftarrow$ Next
 
 ---
 # 1) What is Stemming?

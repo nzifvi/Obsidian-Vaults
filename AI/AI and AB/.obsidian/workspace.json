@@ -13,16 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Neural Networks/4,1 - Multilayer Feed-Forward Networks.md",
+                "file": "2) Recurrent Networks/1 - What are Recurrent NNs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4,1 - Multilayer Feed-Forward Networks"
+              "title": "1 - What are Recurrent NNs"
             }
           },
           {
-            "id": "7a420b03eb6a80b7",
+            "id": "b3bf7942c4fe764f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading Notes/2) Intro to Genetic Algorithms/3 - Components of Genetic Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Components of Genetic Algorithms"
+            }
+          },
+          {
+            "id": "315b0536c92feb33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3) Genetic Algorithm/1,2 - Components of Population Members.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1,2 - Components of Population Members"
+            }
+          },
+          {
+            "id": "9c84dfd85a61ceac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) Neural Networks/7,1 - Logic Gates as NNs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7,1 - Logic Gates as NNs"
+            }
+          },
+          {
+            "id": "f105bf1f59861f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) Neural Networks/7,2 - Linearly Separable Logic Gates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7,2 - Linearly Separable Logic Gates"
+            }
+          },
+          {
+            "id": "4de3bf74b796bb98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,37 +90,9 @@
               "icon": "lucide-file",
               "title": "2,1 - Levels and Layers"
             }
-          },
-          {
-            "id": "59210219294a68b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - About PyTorch Tensors"
-            }
-          },
-          {
-            "id": "b5cac34d8b8af31b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Libraries/1) PyTorch/2) Transfer Functions/1 - Transfer Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Transfer Functions"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,53 +254,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5cac34d8b8af31b",
+  "active": "4de3bf74b796bb98",
   "lastOpenFiles": [
-    "Python Libraries/1) PyTorch/2) Transfer Functions/2 - Derivatives of Transfer Functions.md",
-    "Python Libraries/1) PyTorch/2) Transfer Functions/1 - Transfer Functions.md",
-    "Python Libraries/1) PyTorch/1) Tensors/2 - Torch Matrix Operations.md",
-    "Python Libraries/1) PyTorch/2) Transfer Functions",
-    "Python Libraries/1) PyTorch/1) Tensors/3 - PyTorch.md",
-    "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.md",
-    "Python Libraries/1) PyTorch/10) NN Implementations in PyTorch/1 - Multilayer NN.md",
-    "2) Recurrent Networks/1 - What are Recurrent NNs.md",
-    "Python Libraries/1) PyTorch/10) NN Implementations in PyTorch",
-    "2) NN In PyTorch",
-    "1) Neural Networks/5 - Implementing NN in Python.md",
-    "1) Neural Networks/3 - Perceptrons.md",
-    "1) Neural Networks/1,5) NNs in Linear Algebra Form.md",
-    "1) Neural Networks/2,2 - Hopfield Networks.md",
-    "2) Recurrent Networks",
-    "1) Neural Networks/4,1 - Multilayer Feed-Forward Networks.md",
-    "1) Neural Networks/1,2 - Transfer Functions.md",
-    "1) Neural Networks/1,4 - Backward Pass.md",
-    "1) Neural Networks/1,3 - Forward Pass.md",
-    "1) Neural Networks/5 - Implementing NN in Python.ipynb",
-    "Reading Notes/1) Robust Layered Control System for Mobile Robots/2,2 - Control Layers, Subsumption Architecture.md",
-    "-/Pasted image 20260201222411.png",
-    "Reading Notes/1) Robust Layered Control System for Mobile Robots/2,1 - Levels and Layers.md",
-    "-/Pasted image 20260201220940.png",
     "Reading Notes/1) Robust Layered Control System for Mobile Robots/1,3 - Starting Assumptions.md",
     "Reading Notes/1) Robust Layered Control System for Mobile Robots/1,2 - Control System Requirements for Autonomous Mobile Robots.md",
     "Reading Notes/1) Robust Layered Control System for Mobile Robots/1,1 - Control Systems for Movement.md",
-    "-/Pasted image 20260201214423.png",
-    "-/Pasted image 20260201214131.png",
-    "Reading Notes/1) Robust Layered Control System for Mobile Robots",
-    "Reading Notes/Untitled.md",
-    "Reading Notes",
+    "1) Neural Networks/1,5 - NNs in Linear Algebra Form.md",
+    "3) Genetic Algorithm/1,3 - Fitness as Selection Criteria, Fitness Function.md",
+    "3) Genetic Algorithm/4 - Simple GA Process.md",
+    "3) Genetic Algorithm/3 - GA Operators.md",
+    "2) Recurrent Networks/4,3 - Echo State Machines.md",
+    "2) Recurrent Networks/1 - What are Recurrent NNs.md",
+    "1) Neural Networks/4,1 - Multilayer Feed-Forward Networks.md",
+    "1) Neural Networks/1,3 - Forward Pass.md",
+    "1) Neural Networks/1,4 - Backward Pass.md",
     "1) Neural Networks/2,1 - Network Structures.md",
-    "1) Neural Networks/4,2 - Back-Propagation as Gradient Descent Search.md",
-    "1) Neural Networks/1,3 - Network Structures.md",
-    "1) Neural Networks/1,1 - Neural Network Components.md",
-    "1) Neural Networks/1,2 - Example of Full Layer Computation.md",
-    "-/Pasted image 20260131053648.png",
-    "-/Pasted image 20260131053238.png",
-    "-/Pasted image 20260131051456.png",
-    "-/Pasted image 20260131051545.png",
-    "-/Pasted image 20260131045008.png",
-    "Pasted image 20260131044950.png",
-    "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.ipynb",
-    "Python Libraries/1) PyTorch/1) Tensors",
-    "Python Libraries/1) PyTorch"
+    "1) Neural Networks/2,2 - Hopfield Networks.md",
+    "1) Neural Networks/3 - Perceptrons.md",
+    "1) Neural Networks/6,1 - Hyperplanes.md",
+    "1) Neural Networks/6,2 - Decision Boundaries.md",
+    "1) Neural Networks/7,1 - Logic Gates as NNs.md",
+    "1) Neural Networks/7,3 - Non-linearly Separable Logic Gates.md",
+    "1) Neural Networks/7,2 - Linearly Separable Logic Gates.md",
+    "Python Libraries/1) PyTorch/1) Tensors/1 - About PyTorch Tensors.md",
+    "2) Recurrent Networks/4,2 - Attractor Neural Network.md",
+    "2) Recurrent Networks/2,1 - Time Series, Phase Plane.md",
+    "2) Recurrent Networks/3 - Uses for RNNs.md",
+    "1) Neural Networks/5 - Implementing NN in Python.md",
+    "2) Recurrent Networks/4,1 - Training RNNs.md",
+    "Pasted image 20260212094209.png",
+    "Pasted image 20260212094144.png",
+    "4) NN Hyperparameters",
+    "-/Pasted image 20260210102713.png",
+    "3) Genetic Algorithm",
+    "-/Pasted image 20260206150803.png",
+    "Reading Notes/2) Intro to Genetic Algorithms",
+    "Python Libraries/1) PyTorch/3) nn/2 - nn Layers.ipynb",
+    "Python Libraries/1) PyTorch/3) nn/1) What is nn.ipynb",
+    "Python Libraries/1) PyTorch/4) optim",
+    "Python Libraries/1) PyTorch/3) nn",
+    "-/Pasted image 20260205105142.png",
+    "-/Pasted image 20260205104222.png",
+    "-/Pasted image 20260204214449.png",
+    "-/Pasted image 20260204213940.png",
+    "-/Pasted image 20260204213924.png",
+    "-/Pasted image 20260204213527.png",
+    "Python Libraries/1) PyTorch/2) Transfer Functions",
+    "Python Libraries/1) PyTorch/10) NN Implementations in PyTorch",
+    "2) NN In PyTorch"
   ]
 }

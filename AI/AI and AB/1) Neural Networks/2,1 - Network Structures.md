@@ -1,4 +1,4 @@
-[[1,5) NNs in Linear Algebra Form]] $\leftarrow$ Back
+[[1,5 - NNs in Linear Algebra Form]] $\leftarrow$ Back
 [[3 - Perceptrons]] $\leftarrow$ Next
 
 ---

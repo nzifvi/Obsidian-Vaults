@@ -39,7 +39,6 @@ Creates a tensor where all elements are initialised to 1, using torch's `ones` f
 ```python
 onesTensor = torch.ones([2,2], dtype=torch.int32)
 ```
-## 4) 
 # Tensor Attributes
 A Tensor object has 3 public attributes:
 1) shape
@@ -48,3 +47,12 @@ A Tensor object has 3 public attributes:
 	- denotes the datatype of the Tensor's elements.
 3) device
 	- denotes on which processing unit the Tensor is stored.
+
+
+# Tensor Constructor Parameters
+Tensor constructors have optional parameters which are useful, or even required, for various things.
+## requires_grad
+requires_grad is an optional Boolean parameter, used as a flag, which signals whether a Tensor object requires gradient descent or not.
+- default value is False.
+## dtype
+dtype is used to set the datatype of elements in the Tensor object.

@@ -1,5 +1,5 @@
 [[1,3 - Forward Pass]] $\leftarrow$ Back
-[[1,5) NNs in Linear Algebra Form]] $\leftarrow$ Next
+[[1,5 - NNs in Linear Algebra Form]] $\leftarrow$ Next
 
 ---
 # Backward Passes & Weight Changing

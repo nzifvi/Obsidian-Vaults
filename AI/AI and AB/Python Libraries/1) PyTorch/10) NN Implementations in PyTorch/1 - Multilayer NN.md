@@ -54,7 +54,7 @@ for epoch in range(epochAmount):
 	optimiser.zero_grad() # clear past gradients
 	estimatedOuput = predict(x, W1, W2, b1, b2)
 	loss = lossFunction(estimatedOutput, y)
-	lossFunction.backward() # calculate gradients of loss function.
+	loss.backward() # calculate gradients of loss function.
 	optimiser.step() # update weights in weight matrices.
 	
 	

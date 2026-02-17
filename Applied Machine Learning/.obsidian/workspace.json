@@ -4,289 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "0972f190de8415ca",
+        "id": "d06588c2f1eecc9d",
         "type": "tabs",
         "children": [
           {
-            "id": "a554c4c0906c8d05",
+            "id": "a958d4e83e333641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) CV/2) Convolutions/2 - About Masks.md",
+                "file": "3) NLP/3) Document Classification/3,4 - Automatically Derived Vocabulary List Classifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - About Masks"
+              "title": "3,4 - Automatically Derived Vocabulary List Classifiers"
             }
           },
           {
-            "id": "81be0503983d9f2d",
+            "id": "3e6dff74439bb3b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) CV/2) Convolutions/4 - Handling Boundaries.md",
+                "file": "3) NLP/3) Document Classification/4,2 - Naïve Bayes Classifiers Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Handling Boundaries"
+              "title": "4,2 - Naïve Bayes Classifiers Parameters"
             }
           },
           {
-            "id": "9152664115da572a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-/Pasted image 20260120185321.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260120185321"
-            }
-          },
-          {
-            "id": "3dc941fba2b7a0e9",
+            "id": "c9175f5093690cf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) CV/2) Convolutions/5 - scipy convolve2d.md",
+                "file": "3) NLP/3) Document Classification/5 - Using Predictions to label Unseen Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - scipy convolve2d"
+              "title": "5 - Using Predictions to label Unseen Data"
             }
           },
           {
-            "id": "a99ad686c0eade11",
+            "id": "7594b53c8a929d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) CV/2) Convolutions/6,1 - Smoothing Masks and Scale Space.md",
+                "file": "3) NLP/2) Text Preprocessing/4 - Parts of Speech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6,1 - Smoothing Masks and Scale Space"
-            }
-          },
-          {
-            "id": "08a2384492efe1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2) CV/2) Convolutions/1,1 - About Convolutions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1,1 - About Convolutions"
-            }
-          },
-          {
-            "id": "5f03bcf1a203af0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1 - About NLP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - About NLP"
-            }
-          },
-          {
-            "id": "9cd3a3264e0f099e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/2 - Terminology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Terminology"
-            }
-          },
-          {
-            "id": "8463136d6f155a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Processing Text/1 - Herdan-Heaps' Law.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Herdan-Heaps' Law"
-            }
-          },
-          {
-            "id": "cf46a6035bc92aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Processing Text/2 - Zipf's Law.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Zipf's Law"
-            }
-          },
-          {
-            "id": "669f468a33995fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Processing Text/3 - Lexical Semantics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - Lexical Semantics"
-            }
-          },
-          {
-            "id": "0157299363b42e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Text Data/4 - Semantic Relationships.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - Semantic Relationships"
-            }
-          },
-          {
-            "id": "4233ce9b1ae66741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Text Data/5,1 - Distributional Semantics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5,1 - Distributional Semantics"
-            }
-          },
-          {
-            "id": "d0abc6eaf4d0571d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Text Data/5,2 - Context Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5,2 - Context Windows"
-            }
-          },
-          {
-            "id": "edef8515dac5a90b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Text Data/5,2 - Context Windows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5,2 - Context Windows"
-            }
-          },
-          {
-            "id": "483ea809b9c156cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Text Data/5,3 - Word Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5,3 - Word Vectors"
-            }
-          },
-          {
-            "id": "bc4eeac359b2f10e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/1) Text Data/100 - Parsing Strings in Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "100 - Parsing Strings in Python"
-            }
-          },
-          {
-            "id": "2579af3fc4da466b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/2) Text Preprocessing/1 - Sentence Segmentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 - Sentence Segmentation"
-            }
-          },
-          {
-            "id": "3ed439bbff949316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/2) Text Preprocessing/2 - Normalisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 - Normalisation"
-            }
-          },
-          {
-            "id": "5dacc9f9bb7f368e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/2) Text Preprocessing/3 - Stemming, Lemmatisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 - Stemming, Lemmatisation"
+              "title": "4 - Parts of Speech"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -448,53 +226,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "5dacc9f9bb7f368e",
+  "active": "7594b53c8a929d3c",
   "lastOpenFiles": [
-    "3) NLP/2) Text Preprocessing/2 - Normalisation.md",
     "3) NLP/2) Text Preprocessing/3 - Stemming, Lemmatisation.md",
-    "3) NLP/2) Text Preprocessing/1 - Sentence Segmentation.md",
-    "3) NLP/2) Text Preprocessing/1 - Sentence Segmentation.ipynb",
-    "3) NLP/2) Text Preprocessing/2 - Normalisation.ipynb",
-    "3) NLP/1) Text Data/100 - Parsing Strings in Python.md",
-    "3) NLP/2) Text Preprocessing",
-    "3) NLP/1) Text Data/5,4 - Co-occurrence Matrix.md",
-    "-/Pasted image 20260201142904.png",
-    "3) NLP/1) Text Data/5,3 - Word Vectors.md",
+    "3) NLP/2) Text Preprocessing/4 - Parts of Speech.md",
+    "3) NLP/3) Document Classification/7 - Data Sparseness Problem.md",
+    "3) NLP/3) Document Classification/6,5,1 - Evaluating Classifiers.md",
+    "3) NLP/3) Document Classification/5 - Using Predictions to label Unseen Data.md",
+    "3) NLP/3) Document Classification/4,2 - Naïve Bayes Classifiers Parameters.md",
+    "3) NLP/3) Document Classification/4,1 - Naïve Bayes Classifiers.md",
+    "3) NLP/3) Document Classification/3,4 - Automatically Derived Vocabulary List Classifiers.md",
+    "3) NLP/3) Document Classification/6,5,2 - F1-Score.md",
+    "Libraries/NLTK/1) NLTK Corpora/3 - ConcatenatedCorpusView.md",
+    "Libraries/NLTK/1) NLTK Corpora/2 - StreamBackedCorpusView.md",
+    "Libraries/NLTK/1) NLTK Corpora/1 - Importing and Loading Parts of Corpora.md",
+    "Libraries/NLTK/3) NLTK Datatypes",
+    "Libraries/NLTK/2) NLTK Pre-processing/Untitled.md",
+    "Libraries/NLTK/2) NLTK Pre-processing/2 - Lemmatisation.md",
+    "Libraries/NLTK/2) NLTK Pre-processing/1,1 - Tokenisation.md",
+    "Libraries/NLTK/2) NLTK Pre-processing/1,2 - NLTK Tokenisation Tricks.md",
+    "Libraries/NLTK/2) NLTK Pre-processing/2 - Lemmatisation.ipynb",
+    "Libraries/NLTK/2) NLTK Pre-processing/1,2 - NLTK Tokenisation Tricks.ipynb",
+    "Libraries/NLTK/2) NLTK Pre-processing/1) Tokenisation.ipynb",
+    "Libraries/NLTK/2) NLTK Pre-processing",
+    "Libraries/NLTK/About.md",
+    "Libraries/NLTK/1) NLTK Corpora",
+    "Libraries/NLTK",
+    "-/Pasted image 20260207150142.png",
+    "3) NLP/3) Document Classification/3,3 - Hand-crafted Vocabulary List Classifiers.md",
+    "3) NLP/3) Document Classification/3,2 - Scoring Documents.md",
+    "3) NLP/3) Document Classification/3,1 - Classification Models.md",
+    "3) NLP/3) Document Classification/2 - Feature Extraction.md",
+    "-/Pasted image 20260207125245.png",
     "3) NLP/1) Text Data/5,2 - Context Windows.md",
     "3) NLP/1) Text Data/5,1 - Distributional Semantics.md",
-    "3) NLP/1) Processing Text/5,3 - Distributional Representations.md",
-    "-/Pasted image 20260201135333.png",
-    "3) NLP/1) Text Data/4 - Semantic Relationships.md",
-    "3) NLP/1) Text Data/3 - Lexical Semantics.md",
-    "3) NLP/1) Text Data/1 - Herdan-Heaps' Law.md",
-    "3) NLP/1) Text Data/2 - Zipf's Law.md",
-    "3) NLP/2 - Terminology.md",
-    "3) NLP/1) Text Data",
-    "3) NLP/1 - About NLP.md",
-    "3) NLP/3,1 - Parsing Strings in Python.ipynb",
-    "2) CV/2) Convolutions/6,2 - Gaussian Mask.md",
-    "2) CV/2) Convolutions/6,1 - Smoothing Masks and Scale Space.md",
-    "2) CV/2) Convolutions/5 - scipy convolve2d.md",
-    "2) CV/2) Convolutions/4 - Handling Boundaries.md",
-    "2) CV/2) Convolutions/1,2 - Example of Convolution.md",
-    "Libraries",
-    "3) NLP",
-    "2) CV/2) Convolutions/1,1 - About Convolutions.md",
-    "2) CV/3) Cross-correlation/1 - About Cross-correlation.md",
-    "2) CV/2) Convolutions",
-    "2) CV",
-    "3) Convolutions/6,2 - Gaussian Mask.ipynb",
-    "2) CV/2) Convolutions/3 - Types of Templates.md",
+    "3) NLP/1) Text Data/5,3 - Word Vectors.md",
+    "3) NLP/1) Text Data/5,4 - Co-occurrence Matrix.md",
+    "3) NLP/1) Text Data/100 - Parsing Strings in Python.md",
     "-/Pasted image 20260120185321.png",
+    "-/Pasted image 20260206170105.png",
+    "-/Pasted image 20260206164915.png",
+    "3) NLP/3) Document Classification",
+    "2) CV/2) Convolutions/6,2 - Gaussian Mask.ipynb",
+    "3) NLP/2) Text Preprocessing/1 - Sentence Segmentation.ipynb",
+    "-/Pasted image 20260201142904.png",
+    "-/Pasted image 20260201135333.png",
     "-/Pasted image 20260120190018.png",
     "-/Pasted image 20260120185851.png",
-    "-/Pasted image 20260120185359.png",
-    "2) CV/2) Convolutions/2 - About Masks.md",
-    "-/Pasted image 20260120180104.png",
-    "-/Pasted image 20260120175153.png",
-    "-/Pasted image 20260120173102.png",
-    "-/Pasted image 20260120171137.png",
-    "2) CV/1) Image Attributes, Operations/6 - Colour Images.md",
-    "2) CV/1) Image Attributes, Operations/5 - Dynamic Range.md"
+    "-/Pasted image 20260120185359.png"
   ]
 }

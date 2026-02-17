@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Python Slicing/1 - About Python Slicing.md",
+                "file": "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - About Python Slicing"
+              "title": "1) Plotting Graphs with Matplotlib"
             }
           }
         ],
@@ -228,14 +228,14 @@
   },
   "active": "1af5236ab92ac46e",
   "lastOpenFiles": [
-    "4) Python Functions/3) Functions Arguments.md",
+    "7) Python Libraries/2) Matplotlib/2) Types of Graphs with Matplotlib.md",
+    "7) Python Libraries/2) Matplotlib/3) Customising Graphs with Matplotlib.md",
+    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
     "8) Python Slicing/1 - About Python Slicing.md",
+    "4) Python Functions/3) Functions Arguments.md",
     "8) Python Slicing",
     "7) Python Libraries/3) pandas/1) pandas Data Structures/1.3) DataFrame Function Members.md",
     "7) Python Libraries/3) pandas/1) pandas Data Structures/1.1) DataFrame DS.md",
-    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
-    "7) Python Libraries/2) Matplotlib/2) Types of Graphs with Matplotlib.md",
-    "7) Python Libraries/2) Matplotlib/3) Customising Graphs with Matplotlib.md",
     "4) Python Functions/2) Python Function Return Types.md",
     "4) Python Functions/1) Defining Functions in Python.md",
     "7) Python Libraries/3) pandas/3) Data Wrangling with Pandas/Untitled.md",
