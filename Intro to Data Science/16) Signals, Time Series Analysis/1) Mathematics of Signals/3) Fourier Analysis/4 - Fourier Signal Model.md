@@ -35,7 +35,7 @@ $$
 
 To solve for $phi_k$...
 $$
-X[k]=DFT[k]=a_k + ib_k
+X[k]=DFT[k]=a_k + b_ki
 $$
 - $a_k = Re(X[k])$
 - $b_k = Im(X[k])$

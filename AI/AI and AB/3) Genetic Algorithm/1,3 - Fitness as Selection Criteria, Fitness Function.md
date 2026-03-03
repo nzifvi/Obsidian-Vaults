@@ -16,6 +16,12 @@ $$
 Members of a population with a higher fitness score are more likely to be chosen to reproduce.
 - $v \in \Omega_1$
 - $f(v) \rightarrow \infty$, $p(v)$ = chosen for reproduction $\rightarrow \infty$
+
+Probability a population member, $i$, reproduces is equal to...
+$$
+P(i)=\frac{f(v)}{f(\Omega_i)}
+$$
+
 # Fitness Functions
 A fitness function, $f$, is a mathematical function which...
 - Takes a genotype, $G$, OR measurements as input

@@ -19,7 +19,6 @@ Grammatical classes are defined as:
 
 Each word, in a given sentence, will belong to one of these grammatical classes.
 
-
 POS is useful as...
 1) Can help disambiguate words for below tasks.
 	- Information retrieval.
@@ -30,3 +29,13 @@ POS is useful as...
 	- Adjectives often followed by a given noun for example.
 	- Personal pronouns often followed by a given verb for example.
 3) It is important to identify larger grammatical structure.
+
+# POS Tag sets
+A tag set is a set of grammatical classes.
+
+Different tag sets have been produced from text corpuses:
+- Brown corpus: 80 tags.
+- Penn Treebank: 45 tags.
+- Susanne Corpus: 350 tags.
+- British National Corpus (BNC): 60 tags.
+

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16) Signals, Time Series Analysis/2) Time Series Analysis/2 - Simple Time Series Models.md",
+                "file": "16) Signals, Time Series Analysis/1) Mathematics of Signals/3) Fourier Analysis/4 - Fourier Signal Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Simple Time Series Models"
+              "title": "4 - Fourier Signal Model"
             }
           }
         ],
@@ -185,16 +185,16 @@
   },
   "active": "6b2aaffde140011e",
   "lastOpenFiles": [
-    "16) Signals, Time Series Analysis/2) Time Series Analysis/1 - About Time Series Analysis.md",
-    "16) Signals, Time Series Analysis/1) Mathematics of Signals/3) Fourier Analysis/4 - Fourier Signal Model.md",
     "16) Signals, Time Series Analysis/1) Mathematics of Signals/3) Fourier Analysis/3 - Inverse Discrete Fourier Transform.md",
+    "16) Signals, Time Series Analysis/1) Mathematics of Signals/3) Fourier Analysis/4 - Fourier Signal Model.md",
     "16) Signals, Time Series Analysis/1) Mathematics of Signals/3) Fourier Analysis/2 - Discrete Fourier Transform.md",
     "16) Signals, Time Series Analysis/1) Mathematics of Signals/3) Fourier Analysis/1 - What is Fourier Analysis.md",
+    "16) Signals, Time Series Analysis/2) Time Series Analysis/2 - Simple Time Series Models.md",
+    "16) Signals, Time Series Analysis/2) Time Series Analysis/1 - About Time Series Analysis.md",
     "10) Regression/10.2) Linear Regression/2 - What is Multivariable Linear Regression.md",
     "10) Regression/10.2) Linear Regression/1,2 Monovariable Linear Regression in Python.md",
     "10) Regression/10.2) Linear Regression/1,1 - What is Monovariable Linear Regression.md",
     "10) Regression/10.1) Mathematics for Regression/1 - Mathematics of Regression.md",
-    "16) Signals, Time Series Analysis/2) Time Series Analysis/2 - Simple Time Series Models.md",
     "16) Signals, Time Series Analysis/2) Time Series Analysis/1) About Time Series Analysis.ipynb",
     "16) Signals, Time Series Analysis/2) Time Series Analysis",
     "16) Signals, Time Series Analysis/1) Mathematics of Signals/2) Discrete Signals/1 - Discrete Signal Components.md",
