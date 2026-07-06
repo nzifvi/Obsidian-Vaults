@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gamejam 2025/1 - game idea.md",
+                "file": "JRA/Readings/2 - A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - game idea"
+              "title": "2 - A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots"
+            }
+          },
+          {
+            "id": "58b514a15200d9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New JRA Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New JRA Model"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,26 +184,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d89b087aca6111d",
+  "active": "58b514a15200d9e6",
   "lastOpenFiles": [
+    "JRA/PID Controllers.md",
+    "JRA/Project Plan.canvas",
+    "JRA/i2c serial comm.md",
+    "JRA/PID Controllers 1.md",
+    "AIAB Evolution Timeline.canvas",
+    "AML Equations.md",
+    "New JRA Model.md",
+    "Robotics/Forward Kinematic Models.md",
+    "Robotics/Frames and Mapping Between Frames.md",
+    "Pasted image 20260620003110.png",
+    "Pasted image 20260619233100.png",
+    "Pasted image 20260619224955.png",
+    "JRA/SLAM.md",
+    "Untitled",
+    "JRA/Untitled.md",
+    "JRA/Models/1 - Kalman Filter.md",
+    "Robotics",
+    "Pasted image 20260609181552.png",
+    "Pasted image 20260609181408.png",
+    "JRA/Proof of Spherical Coordinates Not Working.md",
+    "JRA/Untitled.base",
+    "JRA/About SNNs/1,2 - Neuron Models.md",
+    "JRA/Models",
+    "JRA/About SNNs/2,1 - SNN Architecture.md",
+    "JRA/About SNNs/2,2 - Recurrent SNNs.md",
+    "JRA/PyGenn/5 - Simulation Relevant Function Members.md",
+    "JRA/PyGenn/4 - Synapse Populations.md",
+    "Pasted image 20260502202403.png",
+    "JRA/Autonomous Navigation/1 - Fully Autonomy and Approaches to Full Autonomy.md",
+    "JRA/About SNNs/1,1 -How SNNs Work.md",
+    "Year 2 Assignment Planning/Semester 2.canvas",
+    "JRA/PyGenn/2 - PyGenn Models.md",
+    "Year 2 Assignment Planning/Semester 2",
+    "Year 2 Assignment Planning",
+    "JRA/PyGenn/3 - Neuron Populations.md",
+    "gamejam 2025/1 - game idea.md",
     "gamejam 2025/2 - mathematics for motion.md",
     "gamejam 2025/3 - physics engine code.md",
-    "gamejam 2025/1 - game idea.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Untitled 2.base",
-    "medical app/1 - Brief.md",
-    "medical app/1 -- How Program Works/3 - How Patient represented.md",
-    "gamejam 2025",
-    "-",
-    "medical app/1 -- How Program Works/2 - How Conditions are represented.md",
-    "-/Pasted image 20250610212017.png",
-    "medical app/1 -- How Program Works/1 - How Condition is Chosen.md",
-    "medical app/3 - Departments.md",
-    "medical app/1 -- How Program Works",
-    "medical app/2 - Roles.md",
-    "medical app/1 -- How Program Works",
-    "Welcome.md",
-    "medical app"
+    "JRA/PyGenn/4 - Synapse Population.md",
+    "JRA/PyGenn/3 - Neuron Population.md",
+    "-/Pasted image 20260315000746.png",
+    "JRA/PyGenn",
+    "JRA/SLAM",
+    "JRA/Autonomous Navigation",
+    "JRA/Readings",
+    "-/Pasted image 20250610212017.png"
   ]
 }

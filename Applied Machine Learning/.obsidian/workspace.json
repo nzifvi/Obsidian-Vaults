@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d06588c2f1eecc9d",
+        "id": "14f70189a8a2bc8d",
         "type": "tabs",
         "children": [
           {
-            "id": "a958d4e83e333641",
+            "id": "fd9f7decc16e552a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) NLP/3) Document Classification/3,4 - Automatically Derived Vocabulary List Classifiers.md",
+                "file": "2) CV/3) Edge Detection/3 - Edge Detection and Spatial Scale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3,4 - Automatically Derived Vocabulary List Classifiers"
+              "title": "3 - Edge Detection and Spatial Scale"
             }
           },
           {
-            "id": "3e6dff74439bb3b1",
+            "id": "4cfea6626ac6599a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) NLP/3) Document Classification/4,2 - Naïve Bayes Classifiers Parameters.md",
+                "file": "3) NLP/4) Document Classification/5,1 - Logistic Regression Classifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4,2 - Naïve Bayes Classifiers Parameters"
-            }
-          },
-          {
-            "id": "c9175f5093690cf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/3) Document Classification/5 - Using Predictions to label Unseen Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 - Using Predictions to label Unseen Data"
-            }
-          },
-          {
-            "id": "7594b53c8a929d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3) NLP/2) Text Preprocessing/4 - Parts of Speech.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - Parts of Speech"
+              "title": "5,1 - Logistic Regression Classifiers"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spatial scale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,53 +198,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "7594b53c8a929d3c",
+  "active": "4cfea6626ac6599a",
   "lastOpenFiles": [
-    "3) NLP/2) Text Preprocessing/3 - Stemming, Lemmatisation.md",
-    "3) NLP/2) Text Preprocessing/4 - Parts of Speech.md",
-    "3) NLP/3) Document Classification/7 - Data Sparseness Problem.md",
-    "3) NLP/3) Document Classification/6,5,1 - Evaluating Classifiers.md",
-    "3) NLP/3) Document Classification/5 - Using Predictions to label Unseen Data.md",
-    "3) NLP/3) Document Classification/4,2 - Naïve Bayes Classifiers Parameters.md",
-    "3) NLP/3) Document Classification/4,1 - Naïve Bayes Classifiers.md",
-    "3) NLP/3) Document Classification/3,4 - Automatically Derived Vocabulary List Classifiers.md",
-    "3) NLP/3) Document Classification/6,5,2 - F1-Score.md",
-    "Libraries/NLTK/1) NLTK Corpora/3 - ConcatenatedCorpusView.md",
-    "Libraries/NLTK/1) NLTK Corpora/2 - StreamBackedCorpusView.md",
+    "3) NLP/4) Document Classification/4,2 - Naïve Bayes Classifiers Parameters.md",
+    "2) CV/3) Edge Detection/3 - Edge Detection and Spatial Scale.md",
+    "2) CV/5) Face Alignment/2 - Approaches to Face Alignment.md",
+    "2) CV/3) Edge Detection/2 - Rudimentary Edge Detection Approaches.md",
+    "2) CV/5) Face Alignment/4 - Analysing Errors in Face Alignment.md",
+    "2) CV/7) Bootstrapping Images/1 - Bootstrapping Image Data.md",
+    "Libraries/OpenCV/1) Loading Images/1 - Loading RGB Images.md",
+    "2) CV/7) Bootstrapping Images",
+    "Libraries/OpenCV/1) Loading Images/2 - Loading Grayscale Images.md",
+    "2) CV/1) Image Attributes, Operations/6 - Colour Images.md",
+    "2) CV/1) Image Attributes, Operations/3,1 - Images as Histograms.md",
+    "2) CV/1) Image Attributes, Operations/2 - Descriptive Statistics of Gray-Scale Images.md",
+    "2) CV/1) Image Attributes, Operations/1 - Grayscale Images as Arrays.md",
+    "2) CV/5) Face Alignment/3 - Measuring Error in Face Alignment.md",
+    "2) CV/5) Face Alignment/1 - About Face Alignment.md",
+    "3) NLP/3) Document Data/2 - Document Vectors.md",
+    "Libraries/sklearn/2) sklearn models/3 - sklearn classification models.md",
+    "Libraries/sklearn/2) sklearn models/2 - sklearn regression models.md",
+    "Libraries/sklearn/2) sklearn models/1,1 - sklearn BaseEstimator.md",
+    "Libraries/sklearn/2) sklearn models/4 - Creating custom Models.md",
+    "Libraries/sklearn/2) sklearn models/1,2 - sklearn Mixin classes.md",
+    "Libraries/sklearn/1) sklearn overview/3 - sklearn model evaluation.md",
+    "Libraries/sklearn/2) sklearn models",
+    "Libraries/sklearn/1) sklearn overview/2 - sklearn model training.md",
+    "Libraries/sklearn/1) sklearn overview/1 - What is sklearn.md",
     "Libraries/NLTK/1) NLTK Corpora/1 - Importing and Loading Parts of Corpora.md",
-    "Libraries/NLTK/3) NLTK Datatypes",
-    "Libraries/NLTK/2) NLTK Pre-processing/Untitled.md",
-    "Libraries/NLTK/2) NLTK Pre-processing/2 - Lemmatisation.md",
-    "Libraries/NLTK/2) NLTK Pre-processing/1,1 - Tokenisation.md",
-    "Libraries/NLTK/2) NLTK Pre-processing/1,2 - NLTK Tokenisation Tricks.md",
-    "Libraries/NLTK/2) NLTK Pre-processing/2 - Lemmatisation.ipynb",
-    "Libraries/NLTK/2) NLTK Pre-processing/1,2 - NLTK Tokenisation Tricks.ipynb",
-    "Libraries/NLTK/2) NLTK Pre-processing/1) Tokenisation.ipynb",
-    "Libraries/NLTK/2) NLTK Pre-processing",
-    "Libraries/NLTK/About.md",
-    "Libraries/NLTK/1) NLTK Corpora",
-    "Libraries/NLTK",
+    "Libraries/sklearn/1) sklearn overview",
+    "Libraries/sklearn/1.md",
+    "Libraries/sklearn",
+    "Libraries/NLTK/1) NLTK Corpora/2 - StreamBackedCorpusView.md",
+    "4) Neural Networks/4.2) Deep Neural Networks",
+    "4) Neural Networks/4.1) Shallow Neural Networks",
+    "4) Neural Networks",
+    "3) NLP/3) Document Data",
+    "2) CV/6) CNNs",
+    "2) CV/5) Face Alignment",
+    "-/Pasted image 20260324103755.png",
+    "-/Pasted image 20260323194450.png",
+    "-/Pasted image 20260323121214.png",
+    "-/Pasted image 20260323115821.png",
+    "-/Pasted image 20260317151704.png",
+    "-/Pasted image 20260317150603.png",
+    "-/Pasted image 20260317140941.png",
     "-/Pasted image 20260207150142.png",
-    "3) NLP/3) Document Classification/3,3 - Hand-crafted Vocabulary List Classifiers.md",
-    "3) NLP/3) Document Classification/3,2 - Scoring Documents.md",
-    "3) NLP/3) Document Classification/3,1 - Classification Models.md",
-    "3) NLP/3) Document Classification/2 - Feature Extraction.md",
     "-/Pasted image 20260207125245.png",
-    "3) NLP/1) Text Data/5,2 - Context Windows.md",
-    "3) NLP/1) Text Data/5,1 - Distributional Semantics.md",
-    "3) NLP/1) Text Data/5,3 - Word Vectors.md",
-    "3) NLP/1) Text Data/5,4 - Co-occurrence Matrix.md",
-    "3) NLP/1) Text Data/100 - Parsing Strings in Python.md",
-    "-/Pasted image 20260120185321.png",
-    "-/Pasted image 20260206170105.png",
-    "-/Pasted image 20260206164915.png",
-    "3) NLP/3) Document Classification",
-    "2) CV/2) Convolutions/6,2 - Gaussian Mask.ipynb",
-    "3) NLP/2) Text Preprocessing/1 - Sentence Segmentation.ipynb",
-    "-/Pasted image 20260201142904.png",
-    "-/Pasted image 20260201135333.png",
-    "-/Pasted image 20260120190018.png",
-    "-/Pasted image 20260120185851.png",
-    "-/Pasted image 20260120185359.png"
+    "-/Pasted image 20260120185321.png"
   ]
 }

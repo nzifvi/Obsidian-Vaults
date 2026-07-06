@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
+                "file": "7) Python Libraries/4) PyTorch/4 - Example Training Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Plotting Graphs with Matplotlib"
+              "title": "4 - Example Training Loop"
             }
           }
         ],
@@ -228,9 +228,15 @@
   },
   "active": "1af5236ab92ac46e",
   "lastOpenFiles": [
+    "7) Python Libraries/4) PyTorch/3 - Dataset,  DataLoader.md",
+    "7) Python Libraries/4) PyTorch/4 - Example Training Loop.md",
+    "7) Python Libraries/4) PyTorch/2 - torch layers.md",
+    "7) Python Libraries/4) PyTorch/1 - What is PyTorch.md",
+    "7) Python Libraries/1) Importing Libraries and Modules.md",
+    "7) Python Libraries/4) PyTorch",
+    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
     "7) Python Libraries/2) Matplotlib/2) Types of Graphs with Matplotlib.md",
     "7) Python Libraries/2) Matplotlib/3) Customising Graphs with Matplotlib.md",
-    "7) Python Libraries/2) Matplotlib/1) Plotting Graphs with Matplotlib.md",
     "8) Python Slicing/1 - About Python Slicing.md",
     "4) Python Functions/3) Functions Arguments.md",
     "8) Python Slicing",
@@ -247,7 +253,6 @@
     "7) Python Libraries/3) pandas/2) Reading in CSV, JSON into DataFrames/2) Reading JSON into DataFrame.md",
     "7) Python Libraries/3) pandas/1) pandas Data Structures",
     "7) Python Libraries/3) pandas/2) Reading in CSV, JSON into DataFrames",
-    "7) Python Libraries/1) Importing Libraries and Modules.md",
     "7) Python Libraries/3) pandas",
     "2) Python Variables/2) Python Casting/1) How to cast a variable to another type.md",
     "6) Python File Handling, JSON/2) Python JSON/2) Formatting JSON Strings.md",
@@ -261,11 +266,6 @@
     "7) Python Libraries",
     "6) Python File Handling, JSON/1) Python File Handling/1) Opening and Closing Files.md",
     "5) Python Classes/4) Inheritance.md",
-    "6) Python File Handling, JSON/2) Python JSON",
-    "5) Python Classes/3) self.md",
-    "5) Python Classes/1) Python Classes.md",
-    "5) Python Classes/2) __str__() function member.md",
-    "1) Python Syntax/3) Python End of Line.md",
     "-/Pasted image 20250421214721.png",
     "-/Pasted image 20250421214152.png",
     "Untitled.canvas"

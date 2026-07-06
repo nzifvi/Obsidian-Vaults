@@ -1,5 +1,5 @@
 [[1 - About Decision Speed]] $\leftarrow$ Back
-[[3 - Drift-diffusion Modelling]] $\leftarrow$ Next
+[[3,1 - Drift-diffusion Modelling]] $\leftarrow$ Next
 
 ---
 # Choice Reaction Time Tasks

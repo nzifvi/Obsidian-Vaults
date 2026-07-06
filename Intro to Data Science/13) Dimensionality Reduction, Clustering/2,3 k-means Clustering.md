@@ -8,44 +8,96 @@ k-means Clustering is a partition algorithm. It is one of the most simple partit
 
 # How does k-means Clustering Work?
 
-INITIALISATION STAGES:
-- Select k points to act as initial centroids.
+## INITIALISATION STAGES:S
+1) Select k, the number of clusters, to split the data into.
 	 For a sample of n data points...
 	 $$k \leq n \wedge k > 0$$
 	- Chosen value of k is important. There will be k clusters at the end of the process.
 
+2) Initialise the centroids of k clusters.
+	- k centroids must be initialised to have a point.
+	- Centroid is itself an $n^{th}$ dimensional coordinate. It will change during the iterative stages as more and more points become part of a centroid's cluster.
+	- 2 methods are used to choose initial coordinates for the centroids of k clusters.
 
-ITERATIVE STAGES:
+### 1) Naïve Initialisation
+Select k points, $\vec{p}$ from the data set to be centroids with a uniform probability.
+- Sensitive to bad luck: if 2 points too close to each other are chosen, naïve initialisation can cause poor convergence to a local minimum.
+$$
+Clusters=\{C_1, C_2\}
+$$
+$$
+\forall C_j, C_j\in Clusters | P(Centroid(C_j) = \vec{p}) = \frac{1}{|D|}
+$$
+Where...
+- D is the data set.
+- $\vec{p}$ is a vector representation of a data point $\in D$.
+
+NOTE: once a point is chosen to be a cluster. The same point CANNOT be used as another centroid.
+### 2) k-means++
+k-means++ attempts to improve naïve initialisation by modifying how all other centroids, besides the first, are chosen.
+
+First: a first centroid is chosen from all data points, $\vec{p}$ with a uniform probability to be chosen.
+$$
+Clusters = \{C_1,...C_k\}
+$$
+$$
+\forall \vec{p}, \vec{p}\in D |P(Centroid(C_1) = \vec{p}) = \frac{1}{|D|}
+$$
+Initial cluster is removed from remaining clusters to assign a centroid to...
+$$
+Clusters_{remaining}' = Clusters_{remaining} + \{C_1\}
+$$
+Initial point, chosen to be the initial cluster's centroid, is removed from centroid candidates...
+$$
+D' = D - \{Centroid(C_1)\}
+$$
+Assign the chosen point to a set of chosen centroids
+$D_{centroids}$ = $D_{centroids} + \{Centroid(C_1)\}$ 
+
+For each remaining data point, it's squared distance from the nearest already chosen centroid is calculated...
+$$
+\forall \vec{p_{candidate}}, \vec{p_{candidate}}\in D' \wedge \vec{p}\cancel{\in}D_{centroids}
+$$
+$$
+MinimalCentroidDistance(\vec{p_{candidate}}) \text{min}_{\vec{p_{centroid}}\in D_{centroids}}\biggr(||\vec{p}_{candidate}-\vec{p}_{centroid}||^2\biggr)
+$$
+Then the probability of a candidate point, $\vec{p}_{candidate}$, is equal to...
+$$
+C_j \cancel{\in}Clusters'
+$$
+$$
+P(Centroid(C_j)=\vec{p}_{candidate})=\frac{MinimalCentroidDistance(\vec{p}_{candidate})^2}{\sum_{\vec{p}\in (D')}\biggr[MinimalCentroidDistance(\vec{p})^2\biggr]}
+$$
+Continue this k times. Each point chosen to be a cluster, ensure that...
+- It is added to $D'$ so it is not considered to be a candidate point again.
+
+## ITERATIVE STAGES:
 1) Centroid of the clusters are all updated.
 	- Each cluster has a centroid: a point which is at the centre of that cluster.
 	  
-	- Centroid is itself a point. Each ordinate of the centroid must be calculated. For each dimension in the sample, there will be another ordinate to calculate.
+	- Centroid is itself a point (could be represented as a vector).
 	  
-	- To calculate ordinate of a centroid, calculate mean of data points within that sample in the ordinate's dimension.
+	- To calculate a centroid, calculate mean of data points within that cluster
 
 $$
-Cluster_1 = \{\vec{p_1}, \vec{p_2}, \vec{p_3}\}
+Clusters = \{C_1,...,C_k\}
 $$
 $$
-\vec{p_j} = p_{j_1}\hat{i}+p_{j_2}\hat{j} +...+p_{j_d}\hat{d}
+\forall C, C\in Clusters | C=\{\vec{p_1},..,\vec{p}_{|C|}\}
 $$
-Sample has 2 dimensions. All centroids will be 2D.
 $$
-Centroid(Cluster_1) = (C_1, C_2)
-$$
-
-$$
-C_1 = \frac{1}{|C|}\sum_{i=1}\biggr[p_{j_i}\biggr]
+Centroid(C)=\frac{1}{|C|}\sum_{i=1}^{|C|}\bigg[\vec{p}_i\biggr]
 $$
 
-2) Update the clusters based on the calculated centroids for all points in the sample.
-	- For each point in the sample, calculate their distance to each cluster's centroid.
 
+2) Reassign every point, in the data, to the cluster it is nearest to.
+Let...
+- $\vec{u}_j = Centroid(C_j)$
+
+Each point, $\vec{p}_i \in D$, is reassigned by...
 $$
-Centroid(Cluster_1), Centroid(Cluster_2), Centroid(Cluster_3)
+C_j = \biggr\{\vec{p}_j\in D | j=\text{argmin}_{l\in\{1,...,k\}}||\vec{p_j}-\vec{\mu_l}||^2\biggr\}
 $$
-	- Each point is added to the cluster it has the least distance between. 
-		- If point is part of another cluster, it is removed and added to the new one.
 
 3) Calculate new centroids. 
 	- If all the new centroids of the clusters are the same as the old centroids: end the iterative process. Clustering has finished.

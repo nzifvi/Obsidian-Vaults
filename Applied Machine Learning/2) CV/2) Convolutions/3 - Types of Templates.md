@@ -26,8 +26,14 @@ $$
 T = \begin{bmatrix}-1&0&1\\-2&0&2\\-1&0&1\end{bmatrix}
 $$
 ### Use
-Provides a way to reducing the noise in an image.
+Sobel filters are a combination of approximating x-axis derivatives and smoothing the image simultaneously.
+- $\begin{bmatrix}1&2&1\end{bmatrix}$ is the part of the Sobel filter which performs smoothing.
+- $\begin{bmatrix}-1&0&1\end{bmatrix}$ is the part of the Sobel filter which performs first order derivative approximation along the x-axis.
 
+The Sobel filter is built from these 2 component filters...
+$$
+T_{3\times3}=\begin{bmatrix}1&2&1\end{bmatrix}^T \odot \begin{bmatrix}-1&0&1\end{bmatrix}
+$$
 # Averaging Filter
 ### Template
 $$
