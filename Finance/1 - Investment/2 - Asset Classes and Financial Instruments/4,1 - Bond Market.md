@@ -1,1 +1,0 @@
-[[3 - Yields on Money Market Securities]]
